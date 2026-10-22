@@ -2,7 +2,7 @@
 Análisis de viabilidad de expansión de Ecobici en CDMX."
 # Análisis de Viabilidad para Expansión de Ecobici en la CDMX
 
-**Equipo:** [Nombre de tu equipo]
+**Equipo:** Los Campechaos
 **Integrantes:** 
 - Carlos Josafat Fragoso Palma
 - Francisco Javier Garcia Rojas
@@ -14,7 +14,7 @@ Este repositorio concentra el trabajo acumulativo del proyecto semestral de Inte
 ## Fuente de Datos Principal
 - **Dataset:** Ecobici CDMX Trip Data
 - **Plataforma:** Kaggle
-- **Fuentes Complementarias:** 
+- **Fuentes Complementarias:*https://github.com/SimonHFrost/ecobici-api-poll-and-save.git* 
 
 ## Organización del Repositorio
 - `/docs/`: Documentos entregables en PDF (como el Avance 1).
