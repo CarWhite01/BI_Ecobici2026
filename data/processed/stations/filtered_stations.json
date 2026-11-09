@@ -1,0 +1,4064 @@
+[
+  {
+    "station_id": "1",
+    "nombre": "CE-710 Molino del Rey - Glorieta de la Lealtad",
+    "lat": 19.416795,
+    "lon": -99.192508
+  },
+  {
+    "station_id": "5",
+    "nombre": "CE-407  Prolongación Xochicalco-General Emiliano Zapata",
+    "lat": 19.36726591257277,
+    "lon": -99.15865559132271
+  },
+  {
+    "station_id": "6",
+    "nombre": "CE-428  Prolongación Uxmal-Av. Popocatépetl (Eje 8)",
+    "lat": 19.363404,
+    "lon": -99.160395
+  },
+  {
+    "station_id": "7",
+    "nombre": "CE-483 Colegio Salesiano - Marina Nacional",
+    "lat": 19.44304,
+    "lon": -99.17759
+  },
+  {
+    "station_id": "8",
+    "nombre": "CE-443 Bruno Traven-Golondrinas",
+    "lat": 19.359583,
+    "lon": -99.162085
+  },
+  {
+    "station_id": "9",
+    "nombre": "CE-423 Moras-José María Rico (Eje 8)",
+    "lat": 19.367816,
+    "lon": -99.175269
+  },
+  {
+    "station_id": "10",
+    "nombre": "CE-438 Adolfo Prieto-José María Olloqui",
+    "lat": 19.36473,
+    "lon": -99.174447
+  },
+  {
+    "station_id": "11",
+    "nombre": "CE-415 San Francisco-Parroquia",
+    "lat": 19.37099,
+    "lon": -99.176135
+  },
+  {
+    "station_id": "12",
+    "nombre": "CE-417 Goya-Augusto Rodin",
+    "lat": 19.373447,
+    "lon": -99.184465
+  },
+  {
+    "station_id": "14",
+    "nombre": "CE-022 Reforma - Manchester",
+    "lat": 19.424784,
+    "lon": -99.172119
+  },
+  {
+    "station_id": "15",
+    "nombre": "CE-094 Lic. Verdad-Moneda",
+    "lat": 19.433766,
+    "lon": -99.130918
+  },
+  {
+    "station_id": "16",
+    "nombre": "CE-405 División Del Norte-Municipio Libre",
+    "lat": 19.370565558464016,
+    "lon": -99.15662247688942
+  },
+  {
+    "station_id": "17",
+    "nombre": "CE-375 Tenayuca-División Del Norte",
+    "lat": 19.376793,
+    "lon": -99.158847
+  },
+  {
+    "station_id": "18",
+    "nombre": "CE-394 Dr. Roberto Gayol-Félix Cuevas",
+    "lat": 19.372474,
+    "lon": -99.171639
+  },
+  {
+    "station_id": "19",
+    "nombre": "CE-337 San Borja-Martín Mendalde",
+    "lat": 19.384849,
+    "lon": -99.16704
+  },
+  {
+    "station_id": "20",
+    "nombre": "CE-412 Parroquia-Avenida Universidad",
+    "lat": 19.368107,
+    "lon": -99.164376
+  },
+  {
+    "station_id": "21",
+    "nombre": "CE-381 San Lorenzo-Manzanas",
+    "lat": 19.375543381100602,
+    "lon": -99.17801052342838
+  },
+  {
+    "station_id": "22",
+    "nombre": "CE-332 Calle 27-Avenida 3",
+    "lat": 19.385494,
+    "lon": -99.183744
+  },
+  {
+    "station_id": "23",
+    "nombre": "CE-399 Heriberto Frías-San Lorenzo",
+    "lat": 19.372469,
+    "lon": -99.164538
+  },
+  {
+    "station_id": "24",
+    "nombre": "CE-377 Heriberto Frías-Miguel Laurent",
+    "lat": 19.375397,
+    "lon": -99.163778
+  },
+  {
+    "station_id": "25",
+    "nombre": "CE-360 Heriberto Frías-Matias Romero",
+    "lat": 19.379435,
+    "lon": -99.162794
+  },
+  {
+    "station_id": "26",
+    "nombre": "CE-362 Augusto Rodin-Alberto Balderas",
+    "lat": 19.382123281154726,
+    "lon": -99.18109126394484
+  },
+  {
+    "station_id": "27",
+    "nombre": "CE-365 Holbein-Avenida Revolución",
+    "lat": 19.381123,
+    "lon": -99.18667
+  },
+  {
+    "station_id": "28",
+    "nombre": "CE-424 Amores-José María Rico (Eje 8)",
+    "lat": 19.367103332434564,
+    "lon": -99.17058136315518
+  },
+  {
+    "station_id": "29",
+    "nombre": "CE-421 María Luz Bringas-Oso",
+    "lat": 19.36952,
+    "lon": -99.179421
+  },
+  {
+    "station_id": "30",
+    "nombre": "CE-287 13 de Septiembre-Puente de la Morena",
+    "lat": 19.398946,
+    "lon": -99.183254
+  },
+  {
+    "station_id": "31",
+    "nombre": "CE-288 11 de Abril-Avenida 2",
+    "lat": 19.396339843986805,
+    "lon": -99.1835709661791
+  },
+  {
+    "station_id": "32",
+    "nombre": "CE-372 Dr. Roberto Gayol-Tlacoquemécatl",
+    "lat": 19.377966,
+    "lon": -99.170272
+  },
+  {
+    "station_id": "33",
+    "nombre": "CE-434 Jose María Olloqui-Amores",
+    "lat": 19.363698614576656,
+    "lon": -99.17118497195588
+  },
+  {
+    "station_id": "34",
+    "nombre": "CE-439 Amores-Avenida Coyoacán",
+    "lat": 19.362037,
+    "lon": -99.172683
+  },
+  {
+    "station_id": "35",
+    "nombre": "CE-378 Miguel Laurent-Amores",
+    "lat": 19.375865,
+    "lon": -99.168219
+  },
+  {
+    "station_id": "36",
+    "nombre": "CE-437 Moras-Comunal",
+    "lat": 19.364916,
+    "lon": -99.175985
+  },
+  {
+    "station_id": "37",
+    "nombre": "CE-374 Pitágoras-Pilares",
+    "lat": 19.376959,
+    "lon": -99.161099
+  },
+  {
+    "station_id": "38",
+    "nombre": "CE-384 Empresa-Poussin",
+    "lat": 19.375865,
+    "lon": -99.185573
+  },
+  {
+    "station_id": "39",
+    "nombre": "CE-348 Indiana-Avenida San Antonio",
+    "lat": 19.3854574,
+    "lon": -99.1782718
+  },
+  {
+    "station_id": "40",
+    "nombre": "CE-397 San Lorenzo-Gabriel Mancera",
+    "lat": 19.37313576931919,
+    "lon": -99.16706666355822
+  },
+  {
+    "station_id": "41",
+    "nombre": "CE-353 Carolina-Holbein",
+    "lat": 19.3823345657493,
+    "lon": -99.17888358246273
+  },
+  {
+    "station_id": "42",
+    "nombre": "CE-387 Cadiz-Empresa",
+    "lat": 19.374267,
+    "lon": -99.180546
+  },
+  {
+    "station_id": "43",
+    "nombre": "CE-367 Boston -Augusto Rodin",
+    "lat": 19.379593,
+    "lon": -99.181351
+  },
+  {
+    "station_id": "44",
+    "nombre": "CE-390-391 Oso-Félix Cuevas",
+    "lat": 19.373161,
+    "lon": -99.178243
+  },
+  {
+    "station_id": "45",
+    "nombre": "CE-303 Montecito-Av. Insurgentes",
+    "lat": 19.394861698080163,
+    "lon": -99.17300574486944
+  },
+  {
+    "station_id": "46",
+    "nombre": "CE-370 Tlacoquemécatl-Av. Insurgentes",
+    "lat": 19.378799,
+    "lon": -99.176821
+  },
+  {
+    "station_id": "47",
+    "nombre": "CE-354 Boston-Av. Insurgentes",
+    "lat": 19.381714,
+    "lon": -99.176664
+  },
+  {
+    "station_id": "48",
+    "nombre": "CE-333 Georgia-Carolina",
+    "lat": 19.387624,
+    "lon": -99.180978
+  },
+  {
+    "station_id": "49",
+    "nombre": "CE-445-446 Riff-Avenida Río Churubusco",
+    "lat": 19.35857050753971,
+    "lon": -99.15610156956063
+  },
+  {
+    "station_id": "50",
+    "nombre": "CE-429 Pirineos-Av. Popocatépetl (Eje 8)",
+    "lat": 19.363060918104924,
+    "lon": -99.15833439679318
+  },
+  {
+    "station_id": "51",
+    "nombre": "CE-414 Parroquia-José Ignacio Bartolache",
+    "lat": 19.370213835587535,
+    "lon": -99.17385498530166
+  },
+  {
+    "station_id": "52",
+    "nombre": "CE-432 Carrillo Puerto-Avenida México-Coyoacan",
+    "lat": 19.361245,
+    "lon": -99.16239
+  },
+  {
+    "station_id": "53",
+    "nombre": "CE-358 Nicolás San Juan-Matias Romero",
+    "lat": 19.380087,
+    "lon": -99.16427
+  },
+  {
+    "station_id": "55",
+    "nombre": "CE-409 Azores - División Del Norte",
+    "lat": 19.3650233,
+    "lon": -99.1554899
+  },
+  {
+    "station_id": "56",
+    "nombre": "CE-413 Parroquia-Avenida Coyoacán",
+    "lat": 19.369823,
+    "lon": -99.172164
+  },
+  {
+    "station_id": "57",
+    "nombre": "CE-345 Patricio Sanz - Miraflores",
+    "lat": 19.384447,
+    "lon": -99.172039
+  },
+  {
+    "station_id": "58",
+    "nombre": "CE-419 Actipan-Cadiz",
+    "lat": 19.370615,
+    "lon": -99.181606
+  },
+  {
+    "station_id": "59",
+    "nombre": "CE-307 Minnesota-Dakota",
+    "lat": 19.393711808925048,
+    "lon": -99.17581468826029
+  },
+  {
+    "station_id": "60",
+    "nombre": "CE-361 Porfirio Díaz-Capulín",
+    "lat": 19.380691,
+    "lon": -99.175036
+  },
+  {
+    "station_id": "61",
+    "nombre": "CE-393 Adolfo Prieto-Félix Cuevas",
+    "lat": 19.373307,
+    "lon": -99.172471
+  },
+  {
+    "station_id": "62",
+    "nombre": "CE-306 Dakota-Minnesota",
+    "lat": 19.393699,
+    "lon": -99.175664
+  },
+  {
+    "station_id": "63",
+    "nombre": "CE-349 Augusto Rodin-Avenida San Antonio",
+    "lat": 19.385632,
+    "lon": -99.180848
+  },
+  {
+    "station_id": "64",
+    "nombre": "CE-284 Dakota-Vermont",
+    "lat": 19.397693,
+    "lon": -99.172981
+  },
+  {
+    "station_id": "65",
+    "nombre": "CE-308 Nueva York-Arizona",
+    "lat": 19.393643,
+    "lon": -99.178156
+  },
+  {
+    "station_id": "66",
+    "nombre": "CE-312 Avenida 2-Calle 7",
+    "lat": 19.39270929935713,
+    "lon": -99.18373167525715
+  },
+  {
+    "station_id": "67",
+    "nombre": "CE-325 Providencia -Avenida Del Valle",
+    "lat": 19.38817793281278,
+    "lon": -99.16966706519814
+  },
+  {
+    "station_id": "68",
+    "nombre": "CE-327 Georgia -Pensilvania",
+    "lat": 19.38885,
+    "lon": -99.17772
+  },
+  {
+    "station_id": "69",
+    "nombre": "CE-335 Magdalena-Ameyalco",
+    "lat": 19.386989,
+    "lon": -99.173438
+  },
+  {
+    "station_id": "70",
+    "nombre": "CE-324 Amores-Avenida Eugenia",
+    "lat": 19.387483,
+    "lon": -99.165409
+  },
+  {
+    "station_id": "71",
+    "nombre": "CE-059 Popocatépetl - Ámsterdam",
+    "lat": 19.4152434,
+    "lon": -99.1667561
+  },
+  {
+    "station_id": "72",
+    "nombre": "CE-072 Mazatlán - Alfonso Reyes",
+    "lat": 19.409859,
+    "lon": -99.179565
+  },
+  {
+    "station_id": "73",
+    "nombre": "CE-067 Vicente Suárez - Michoacán",
+    "lat": 19.411813726946605,
+    "lon": -99.17595729242748
+  },
+  {
+    "station_id": "74",
+    "nombre": "CE-343 Enrique Rébsamen-División Del Norte",
+    "lat": 19.384079,
+    "lon": -99.160915
+  },
+  {
+    "station_id": "75",
+    "nombre": "CE-330 Calle 15-Avenida Patriotismo",
+    "lat": 19.389358,
+    "lon": -99.182606
+  },
+  {
+    "station_id": "76",
+    "nombre": "CE-315 Alabama-Montana",
+    "lat": 19.391444264426035,
+    "lon": -99.17368702595921
+  },
+  {
+    "station_id": "77",
+    "nombre": "CE-341 San Borja-Avenida Cuauhtémoc",
+    "lat": 19.382889,
+    "lon": -99.158352
+  },
+  {
+    "station_id": "78",
+    "nombre": "CE-300 Providencia -Luz Saviñón",
+    "lat": 19.393228574754442,
+    "lon": -99.16839435702059
+  },
+  {
+    "station_id": "79",
+    "nombre": "CE-074 Nuevo León - Ozulama",
+    "lat": 19.410468,
+    "lon": -99.172802
+  },
+  {
+    "station_id": "80",
+    "nombre": "CE-042 Sinaloa - Valladolid",
+    "lat": 19.420603,
+    "lon": -99.168239
+  },
+  {
+    "station_id": "81",
+    "nombre": "CE-076 Chilpancingo - Campeche",
+    "lat": 19.4087182,
+    "lon": -99.1699442
+  },
+  {
+    "station_id": "82",
+    "nombre": "CE-064 Sonora - Ámsterdam",
+    "lat": 19.412967269545486,
+    "lon": -99.16692517703268
+  },
+  {
+    "station_id": "83",
+    "nombre": "CE-056 Alvaro Obregón - Medellin",
+    "lat": 19.417102,
+    "lon": -99.165607
+  },
+  {
+    "station_id": "84",
+    "nombre": "CE-071 Amsterdam - Michoacan",
+    "lat": 19.411361,
+    "lon": -99.171271
+  },
+  {
+    "station_id": "85",
+    "nombre": "CE-083 Alfonso Reyes - Nuevo León",
+    "lat": 19.40655,
+    "lon": -99.172275
+  },
+  {
+    "station_id": "86",
+    "nombre": "CE-081 Aguascalientes - Insurgentes",
+    "lat": 19.407927,
+    "lon": -99.168734
+  },
+  {
+    "station_id": "87",
+    "nombre": "CE-079 Saltillo - Alfonso Reyes",
+    "lat": 19.407548521979454,
+    "lon": -99.17434785516434
+  },
+  {
+    "station_id": "88",
+    "nombre": "CE-128 Orizaba-Río de Janeiro",
+    "lat": 19.422148,
+    "lon": -99.160645
+  },
+  {
+    "station_id": "89",
+    "nombre": "CE-049 Mazatlán - Juan de la Barrera",
+    "lat": 19.41689,
+    "lon": -99.17562
+  },
+  {
+    "station_id": "90",
+    "nombre": "CE-066 Mazatlán - Francisco Márquez",
+    "lat": 19.411825,
+    "lon": -99.178456
+  },
+  {
+    "station_id": "91",
+    "nombre": "CE-040 Oaxaca - Puebla",
+    "lat": 19.42235098990008,
+    "lon": -99.16417356581859
+  },
+  {
+    "station_id": "92",
+    "nombre": "CE-053 Fernando Montes de Oca - Tula",
+    "lat": 19.4148233,
+    "lon": -99.1783527
+  },
+  {
+    "station_id": "93",
+    "nombre": "CE-046 Durango - Salamanca",
+    "lat": 19.419178,
+    "lon": -99.169949
+  },
+  {
+    "station_id": "94",
+    "nombre": "CE-447 Agustín Melgar-Zamora",
+    "lat": 19.418879,
+    "lon": -99.176854
+  },
+  {
+    "station_id": "95",
+    "nombre": "CE-060 Mazatlán - Fernando Montes de Oca",
+    "lat": 19.414099314684794,
+    "lon": -99.17715847497675
+  },
+  {
+    "station_id": "96",
+    "nombre": "CE-302 Luz Saviñón-Magdalena",
+    "lat": 19.393914210245562,
+    "lon": -99.1716746986458
+  },
+  {
+    "station_id": "97",
+    "nombre": "CE-070 Parque México - Michoacán",
+    "lat": 19.4113523,
+    "lon": -99.1698939
+  },
+  {
+    "station_id": "98",
+    "nombre": "CE-125 Morelia-Circular de Morelia",
+    "lat": 19.424197,
+    "lon": -99.156127
+  },
+  {
+    "station_id": "99",
+    "nombre": "CE-100 20 de Noviembre-Mesones",
+    "lat": 19.428485,
+    "lon": -99.1338
+  },
+  {
+    "station_id": "100",
+    "nombre": "CE-105 San Jerónimo-5 de Febrero",
+    "lat": 19.426755,
+    "lon": -99.135014
+  },
+  {
+    "station_id": "101",
+    "nombre": "CE-102 Echeveste-Bolivar",
+    "lat": 19.428214,
+    "lon": -99.139494
+  },
+  {
+    "station_id": "102",
+    "nombre": "CE-097 República de Salvador-Pino Suárez",
+    "lat": 19.429189,
+    "lon": -99.132759
+  },
+  {
+    "station_id": "103",
+    "nombre": "CE-099 Ernesto Pugibet-Luis Moya",
+    "lat": 19.429947,
+    "lon": -99.14591
+  },
+  {
+    "station_id": "104",
+    "nombre": "CE-107-108 Tolsa-Balderas",
+    "lat": 19.427305,
+    "lon": -99.149533
+  },
+  {
+    "station_id": "105",
+    "nombre": "CE-122 José María Vértiz-Av. Dr. Río de la Loza",
+    "lat": 19.425502,
+    "lon": -99.146337
+  },
+  {
+    "station_id": "106",
+    "nombre": "CE-029 Reforma - Bucareli",
+    "lat": 19.434944,
+    "lon": -99.150295
+  },
+  {
+    "station_id": "107",
+    "nombre": "CE-110 Dr. Valenzuela-Dr. Río de la loza",
+    "lat": 19.425126,
+    "lon": -99.143391
+  },
+  {
+    "station_id": "108",
+    "nombre": "CE-093 Palma Norte-República de Cuba",
+    "lat": 19.436741,
+    "lon": -99.134811
+  },
+  {
+    "station_id": "109",
+    "nombre": "CE-091 Republica de Cuba-Allende",
+    "lat": 19.4374,
+    "lon": -99.137571
+  },
+  {
+    "station_id": "110",
+    "nombre": "CE-112 Av. Morelos-Abraham González",
+    "lat": 19.432819,
+    "lon": -99.151734
+  },
+  {
+    "station_id": "111",
+    "nombre": "CE-065 Marconi - Tacuba",
+    "lat": 19.436522,
+    "lon": -99.139811
+  },
+  {
+    "station_id": "112",
+    "nombre": "CE-088 2a Cerrada de 5 de Mayo - Palma",
+    "lat": 19.433757,
+    "lon": -99.135331
+  },
+  {
+    "station_id": "113",
+    "nombre": "CE-003 Reforma - Insurgentes",
+    "lat": 19.43163,
+    "lon": -99.158547
+  },
+  {
+    "station_id": "114",
+    "nombre": "CE-109 Nezahualcóyotl-Isabel la Católica",
+    "lat": 19.425311,
+    "lon": -99.137421
+  },
+  {
+    "station_id": "115",
+    "nombre": "CE-113 General Prim-Versalles",
+    "lat": 19.430369,
+    "lon": -99.154419
+  },
+  {
+    "station_id": "116",
+    "nombre": "CE-123 Claudio Bernard-Dr. Lavista",
+    "lat": 19.424161,
+    "lon": -99.153117
+  },
+  {
+    "station_id": "117",
+    "nombre": "CE-259 Tómas Alva Edison-Ponciano Arriaga",
+    "lat": 19.437569,
+    "lon": -99.15468
+  },
+  {
+    "station_id": "119",
+    "nombre": "CE-016 Reforma - Río Tiber",
+    "lat": 19.4267528,
+    "lon": -99.16861944
+  },
+  {
+    "station_id": "120",
+    "nombre": "CE-025 Reforma - Estocolmo",
+    "lat": 19.427338,
+    "lon": -99.16672
+  },
+  {
+    "station_id": "121",
+    "nombre": "CE-116 Londres-Roma",
+    "lat": 19.428985,
+    "lon": -99.15664
+  },
+  {
+    "station_id": "122",
+    "nombre": "CE-019 Reforma - Río Rhin",
+    "lat": 19.429453,
+    "lon": -99.16283
+  },
+  {
+    "station_id": "123",
+    "nombre": "CE-005 Río Pánuco Río Tiber",
+    "lat": 19.4298428,
+    "lon": -99.1693702
+  },
+  {
+    "station_id": "124",
+    "nombre": "CE-261 Paseo de la Reforma-Río de la Plata",
+    "lat": 19.42491,
+    "lon": -99.172455
+  },
+  {
+    "station_id": "125",
+    "nombre": "CE-263 Sadi Carnot - Gómez Farias",
+    "lat": 19.436274,
+    "lon": -99.158425
+  },
+  {
+    "station_id": "126",
+    "nombre": "CE-111 Guillermo Prieto - Joaquín Velázquez de León",
+    "lat": 19.438197,
+    "lon": -99.165918
+  },
+  {
+    "station_id": "127",
+    "nombre": "CE-265 Mina - Jesús García",
+    "lat": 19.440839,
+    "lon": -99.152265
+  },
+  {
+    "station_id": "128",
+    "nombre": "CE-264-275 Héroes Ferrocarrileros - Jesús Garcia",
+    "lat": 19.440985,
+    "lon": -99.152935
+  },
+  {
+    "station_id": "129",
+    "nombre": "CE-255 José Rosas Moreno-Guillermo Prieto",
+    "lat": 19.437118,
+    "lon": -99.161862
+  },
+  {
+    "station_id": "130",
+    "nombre": "CE-268-269 Luis Donaldo Colosio - Av. Jesús García",
+    "lat": 19.442467,
+    "lon": -99.151658
+  },
+  {
+    "station_id": "131",
+    "nombre": "CE-007 Río Elba - Río Lerma",
+    "lat": 19.42528,
+    "lon": -99.175106
+  },
+  {
+    "station_id": "132",
+    "nombre": "CE-254 Alfonso Herrera-Miguel Shultz",
+    "lat": 19.439177,
+    "lon": -99.159957
+  },
+  {
+    "station_id": "133",
+    "nombre": "CE-115 Roma-Dinamarca",
+    "lat": 19.429924814772583,
+    "lon": -99.15965178055556
+  },
+  {
+    "station_id": "134",
+    "nombre": "CE-273-274 Luis Donaldo Colosio - Av. Jesús García",
+    "lat": 19.442707,
+    "lon": -99.152956
+  },
+  {
+    "station_id": "135",
+    "nombre": "CE-035 Liverpool - Génova",
+    "lat": 19.424558,
+    "lon": -99.163518
+  },
+  {
+    "station_id": "136",
+    "nombre": "CE-012 Río Lerma - Villalongín",
+    "lat": 19.432223,
+    "lon": -99.161686
+  },
+  {
+    "station_id": "137",
+    "nombre": "CE-006 Río Pánuco - Río Sena",
+    "lat": 19.430963,
+    "lon": -99.166986
+  },
+  {
+    "station_id": "138",
+    "nombre": "CE-132 Colima-Frontera",
+    "lat": 19.420667,
+    "lon": -99.15645
+  },
+  {
+    "station_id": "139",
+    "nombre": "CE-144 Frontera-San Luis Potosí",
+    "lat": 19.415192,
+    "lon": -99.154837
+  },
+  {
+    "station_id": "140",
+    "nombre": "CE-147 Coahuila-Orizaba",
+    "lat": 19.412182,
+    "lon": -99.158443
+  },
+  {
+    "station_id": "141",
+    "nombre": "CE-271-272 Jesús García - Carlos J. Meneses",
+    "lat": 19.443684,
+    "lon": -99.152465
+  },
+  {
+    "station_id": "142",
+    "nombre": "CE-002 Río Guadalquivir - Río Nazas",
+    "lat": 19.430495377066244,
+    "lon": -99.17115971451493
+  },
+  {
+    "station_id": "143",
+    "nombre": "CE-137 Álvaro Obregón-Mérida",
+    "lat": 19.418782,
+    "lon": -99.157081
+  },
+  {
+    "station_id": "144",
+    "nombre": "CE-139 Tonalá-Guanajuato",
+    "lat": 19.416128,
+    "lon": -99.162097
+  },
+  {
+    "station_id": "145",
+    "nombre": "CE-190 Gobernador Ignacio Esteva-Maestro José Vasconcelos",
+    "lat": 19.409577,
+    "lon": -99.183818
+  },
+  {
+    "station_id": "146",
+    "nombre": "CE-185 General Antonio Léon-General Pedro Antonio de los Santos",
+    "lat": 19.412776,
+    "lon": -99.182805
+  },
+  {
+    "station_id": "147",
+    "nombre": "CE-228 Campos Elíseos-La Fontaine",
+    "lat": 19.427705,
+    "lon": -99.19912
+  },
+  {
+    "station_id": "148",
+    "nombre": "CE-220 Plinio-Presidente Masaryk",
+    "lat": 19.432655,
+    "lon": -99.205727
+  },
+  {
+    "station_id": "149",
+    "nombre": "CE-204 Temístocles-Homero",
+    "lat": 19.435882,
+    "lon": -99.19152
+  },
+  {
+    "station_id": "150",
+    "nombre": "CE-199 Anatole France-Av. Ejército Nacional",
+    "lat": 19.437934,
+    "lon": -99.197241
+  },
+  {
+    "station_id": "151",
+    "nombre": "CE-247 Herschel-Rousseau",
+    "lat": 19.432276,
+    "lon": -99.18064
+  },
+  {
+    "station_id": "152",
+    "nombre": "CE-158-159 Huatabampo-Eje 1 Pte. Av. Cuauhtémoc",
+    "lat": 19.407517,
+    "lon": -99.155373
+  },
+  {
+    "station_id": "153",
+    "nombre": "CE-207 Torquato Tasso-Homero",
+    "lat": 19.434861,
+    "lon": -99.183322
+  },
+  {
+    "station_id": "154",
+    "nombre": "CE-222 Alejandro Dumas-Presidente Masarik",
+    "lat": 19.431417,
+    "lon": -99.195774
+  },
+  {
+    "station_id": "155",
+    "nombre": "CE-216 Alejandro Dumas-Horacio",
+    "lat": 19.433419,
+    "lon": -99.195746
+  },
+  {
+    "station_id": "156",
+    "nombre": "CE-212 Hegel-Horacio",
+    "lat": 19.433863944714325,
+    "lon": -99.18809428821986
+  },
+  {
+    "station_id": "157",
+    "nombre": "CE-140 Mérida-Zacatecas",
+    "lat": 19.416596,
+    "lon": -99.156879
+  },
+  {
+    "station_id": "158",
+    "nombre": "CE-229 Carlos Dickens-Séneca",
+    "lat": 19.430515,
+    "lon": -99.203331
+  },
+  {
+    "station_id": "159",
+    "nombre": "CE-231 Isaac Newton-Aristóteles",
+    "lat": 19.429711892530808,
+    "lon": -99.19357940565533
+  },
+  {
+    "station_id": "160",
+    "nombre": "CE-460 Juan Vázquez De Mella-Homero",
+    "lat": 19.43716476942747,
+    "lon": -99.20793056498951
+  },
+  {
+    "station_id": "161",
+    "nombre": "CE-214 Platón-Horacio",
+    "lat": 19.434353,
+    "lon": -99.20322
+  },
+  {
+    "station_id": "162",
+    "nombre": "CE-218 Hegel-Ibarbourou",
+    "lat": 19.432451,
+    "lon": -99.188033
+  },
+  {
+    "station_id": "163",
+    "nombre": "CE-243 Lago Filt-Miguel de Cervantes Saavedra",
+    "lat": 19.441123,
+    "lon": -99.195857
+  },
+  {
+    "station_id": "164",
+    "nombre": "CE-192-193 Rubén Darío.Reforma",
+    "lat": 19.425907,
+    "lon": -99.190733
+  },
+  {
+    "station_id": "165",
+    "nombre": "CE-464 Mateo Alemán-Prolongación Moliere",
+    "lat": 19.442421,
+    "lon": -99.199838
+  },
+  {
+    "station_id": "166",
+    "nombre": "CE-195 Reforma-Circuito Mahatma Gandhi",
+    "lat": 19.424858,
+    "lon": -99.185181
+  },
+  {
+    "station_id": "167",
+    "nombre": "CE-120 Marsella-Nápoles",
+    "lat": 19.425437,
+    "lon": -99.159458
+  },
+  {
+    "station_id": "168",
+    "nombre": "CE-143 Córdoba-San Luis Potosí",
+    "lat": 19.414303,
+    "lon": -99.157542
+  },
+  {
+    "station_id": "169",
+    "nombre": "CE-150 Campeche-Medellín",
+    "lat": 19.4098481,
+    "lon": -99.164553
+  },
+  {
+    "station_id": "170",
+    "nombre": "CE-161 Quintana Roo-Manzanillo",
+    "lat": 19.405533,
+    "lon": -99.164913
+  },
+  {
+    "station_id": "171",
+    "nombre": "CE-031 Hamburgo - Insurgentes",
+    "lat": 19.427922277979096,
+    "lon": -99.16124593467885
+  },
+  {
+    "station_id": "172",
+    "nombre": "CE-280 Anaxágoras-Obrero Mundial",
+    "lat": 19.4015,
+    "lon": -99.156406
+  },
+  {
+    "station_id": "173",
+    "nombre": "CE-032 Londres - Sevilla",
+    "lat": 19.42268552552878,
+    "lon": -99.16998323054486
+  },
+  {
+    "station_id": "174",
+    "nombre": "CE-118 Liverpool-Dinamarca",
+    "lat": 19.427171,
+    "lon": -99.158108
+  },
+  {
+    "station_id": "175",
+    "nombre": "CE-134 Álvaro Obregón-Orizaba",
+    "lat": 19.418286,
+    "lon": -99.159932
+  },
+  {
+    "station_id": "176",
+    "nombre": "CE-033 Londres - Florencia",
+    "lat": 19.424187,
+    "lon": -99.166497
+  },
+  {
+    "station_id": "177",
+    "nombre": "CE-165 Bajío-Eje 2 Pte. Monterrey",
+    "lat": 19.404268,
+    "lon": -99.160503
+  },
+  {
+    "station_id": "178",
+    "nombre": "CE-179 Nuevo León-Quintana Roo",
+    "lat": 19.404435569698265,
+    "lon": -99.17138099675866
+  },
+  {
+    "station_id": "179",
+    "nombre": "CE-293 Mier y Pesado-Eje 4 Sur Xola",
+    "lat": 19.397373,
+    "lon": -99.164598
+  },
+  {
+    "station_id": "180",
+    "nombre": "CE-037 Guadalajara - Puebla",
+    "lat": 19.4204342,
+    "lon": -99.1725775
+  },
+  {
+    "station_id": "181",
+    "nombre": "CE-156 Tepic-Ario",
+    "lat": 19.406959,
+    "lon": -99.163021
+  },
+  {
+    "station_id": "182",
+    "nombre": "CE-285 12 de Octubre-Minería",
+    "lat": 19.399763,
+    "lon": -99.177538
+  },
+  {
+    "station_id": "183",
+    "nombre": "CE-131 Colima-Jalapa",
+    "lat": 19.419579,
+    "lon": -99.161314
+  },
+  {
+    "station_id": "184",
+    "nombre": "CE-030 Hamburgo - Amberes",
+    "lat": 19.426099760030304,
+    "lon": -99.16493654251099
+  },
+  {
+    "station_id": "185",
+    "nombre": "CE-057 Cuernavaca - Juan Escutia",
+    "lat": 19.414968,
+    "lon": -99.174766
+  },
+  {
+    "station_id": "186",
+    "nombre": "CE-058 Parque España - Juan de la Barrera",
+    "lat": 19.415358,
+    "lon": -99.171902
+  },
+  {
+    "station_id": "187",
+    "nombre": "CE-175 Mutualismo-José Martí",
+    "lat": 19.400599004903363,
+    "lon": -99.17245991533491
+  },
+  {
+    "station_id": "188",
+    "nombre": "CE-148 Coahuila-Av. Cuauhtémoc",
+    "lat": 19.412829,
+    "lon": -99.155116
+  },
+  {
+    "station_id": "189",
+    "nombre": "CE-177 Benjamín Hill - Carlos Zetina",
+    "lat": 19.408841,
+    "lon": -99.181692
+  },
+  {
+    "station_id": "190",
+    "nombre": "CE-166 Progreso-Cda. Antonio Maceo",
+    "lat": 19.406069,
+    "lon": -99.183549
+  },
+  {
+    "station_id": "191",
+    "nombre": "CE-241 Ejército Nacional-Juan Vázquez de la Mella",
+    "lat": 19.43869310388943,
+    "lon": -99.20757338410112
+  },
+  {
+    "station_id": "192",
+    "nombre": "CE-173 Minería-José Martí",
+    "lat": 19.401682,
+    "lon": -99.176398
+  },
+  {
+    "station_id": "193",
+    "nombre": "CE-126 Jalapa-Puebla",
+    "lat": 19.422288,
+    "lon": -99.162138
+  },
+  {
+    "station_id": "194",
+    "nombre": "CE-127 Puebla-Merida",
+    "lat": 19.423318,
+    "lon": -99.15833
+  },
+  {
+    "station_id": "195",
+    "nombre": "CE-180 Quintana Roo-Villahermosa",
+    "lat": 19.404554,
+    "lon": -99.169953
+  },
+  {
+    "station_id": "196",
+    "nombre": "CE-467 Lago Mayor-Lago Alberto",
+    "lat": 19.440399,
+    "lon": -99.186784
+  },
+  {
+    "station_id": "197",
+    "nombre": "CE-167 General Salvador Alvarado-Progreso",
+    "lat": 19.404608864422567,
+    "lon": -99.1794095188925
+  },
+  {
+    "station_id": "198",
+    "nombre": "CE-196 Lago Tanganica- Av. Ejército Nacional",
+    "lat": 19.438349,
+    "lon": -99.192904
+  },
+  {
+    "station_id": "199",
+    "nombre": "CE-152 Tlacotalpan-Campeche",
+    "lat": 19.409098,
+    "lon": -99.167181
+  },
+  {
+    "station_id": "200",
+    "nombre": "CE-200 Emerson-Av. Ejército Nacional",
+    "lat": 19.437596,
+    "lon": -99.188785
+  },
+  {
+    "station_id": "201",
+    "nombre": "CE-461 Presa Don Martín-Boulevard Miguel De Cervantes Saavedra",
+    "lat": 19.440106,
+    "lon": -99.210031
+  },
+  {
+    "station_id": "202",
+    "nombre": "CE-454 Montes Urales-Monte Pelvoux",
+    "lat": 19.425905,
+    "lon": -99.204236
+  },
+  {
+    "station_id": "203",
+    "nombre": "CE-466 Lago Onega-Lago Ladoga",
+    "lat": 19.44269,
+    "lon": -99.19083
+  },
+  {
+    "station_id": "204",
+    "nombre": "CE-213 Solón-Cicerón",
+    "lat": 19.434366028509015,
+    "lon": -99.206306487431
+  },
+  {
+    "station_id": "205",
+    "nombre": "CE-157 Tepic-Tlacotalpan",
+    "lat": 19.406236,
+    "lon": -99.166616
+  },
+  {
+    "station_id": "206",
+    "nombre": "CE-456 Alpes-Montes Escandinavos",
+    "lat": 19.427517,
+    "lon": -99.208412
+  },
+  {
+    "station_id": "207",
+    "nombre": "CE-459 Volcán-Montes Urales",
+    "lat": 19.429323620268587,
+    "lon": -99.2071587592636
+  },
+  {
+    "station_id": "208",
+    "nombre": "CE-457 Av. Prado Norte-Explanada",
+    "lat": 19.42703,
+    "lon": -99.212845
+  },
+  {
+    "station_id": "209",
+    "nombre": "CE-283 Av. Coyoacán-Rafael Dondé",
+    "lat": 19.397923,
+    "lon": -99.167248
+  },
+  {
+    "station_id": "210",
+    "nombre": "CE-294 Nicolás San Juan-Eje 4 Sur Xola",
+    "lat": 19.39644167553825,
+    "lon": -99.16090227668974
+  },
+  {
+    "station_id": "211",
+    "nombre": "CE-278 Mier Y Pesado-Obrero Mundial",
+    "lat": 19.40071,
+    "lon": -99.163831
+  },
+  {
+    "station_id": "212",
+    "nombre": "CE-282 La Morena-Eje 2 Poniente Gabriel Mancera",
+    "lat": 19.398719270170474,
+    "lon": -99.16128046816084
+  },
+  {
+    "station_id": "213",
+    "nombre": "CE-320 Enrique Rébsamen-Luz Saviñón",
+    "lat": 19.391374,
+    "lon": -99.159327
+  },
+  {
+    "station_id": "214",
+    "nombre": "CE-044 Durango - Veracruz",
+    "lat": 19.418222661839696,
+    "lon": -99.17461395263672
+  },
+  {
+    "station_id": "215",
+    "nombre": "CE-114 Lucerna-Abraham González",
+    "lat": 19.428989,
+    "lon": -99.153618
+  },
+  {
+    "station_id": "216",
+    "nombre": "CE-322 Heriberto Frías-Concepción Beistegui",
+    "lat": 19.388456876549792,
+    "lon": -99.16064277296753
+  },
+  {
+    "station_id": "217",
+    "nombre": "CE-318 Luz Saviñón-Amores",
+    "lat": 19.392195,
+    "lon": -99.163987
+  },
+  {
+    "station_id": "218",
+    "nombre": "CE-009 Río Guadalquivir - Río Lerma",
+    "lat": 19.428184,
+    "lon": -99.170013
+  },
+  {
+    "station_id": "219",
+    "nombre": "CE-234 Tres Picos-Arquímides",
+    "lat": 19.42786220267939,
+    "lon": -99.1914046928423
+  },
+  {
+    "station_id": "220",
+    "nombre": "CE-339 Enrique Rébsamen-Avenida Eugenia",
+    "lat": 19.386212,
+    "lon": -99.160583
+  },
+  {
+    "station_id": "221",
+    "nombre": "CE-188 Gobernador Melchor Múzquiz-Gobernador Ignacio Esteva",
+    "lat": 19.411711,
+    "lon": -99.190139
+  },
+  {
+    "station_id": "222",
+    "nombre": "CE-298 Romero de Terreros-Gabriel Mancera",
+    "lat": 19.394092,
+    "lon": -99.162139
+  },
+  {
+    "station_id": "223",
+    "nombre": "CE-189 Gobernador Rafael Rebollar-Gobernador José Ceballos",
+    "lat": 19.410046050731914,
+    "lon": -99.18795973067971
+  },
+  {
+    "station_id": "224",
+    "nombre": "CE-249 Shakespeare-Darwin",
+    "lat": 19.42988388240091,
+    "lon": -99.1775936633894
+  },
+  {
+    "station_id": "225",
+    "nombre": "CE-043 Revillagigedo - Juárez",
+    "lat": 19.4351365,
+    "lon": -99.1460756
+  },
+  {
+    "station_id": "226",
+    "nombre": "CE-469 Bahía de la Concepción-Bahía de Todos Los Santos",
+    "lat": 19.434183,
+    "lon": -99.173089
+  },
+  {
+    "station_id": "227",
+    "nombre": "CE-472 Bahía de Santa Bárbara-Bahía de Ballenas",
+    "lat": 19.437667,
+    "lon": -99.17711
+  },
+  {
+    "station_id": "228",
+    "nombre": "CE-048 Independencia - Azueta",
+    "lat": 19.433705,
+    "lon": -99.146665
+  },
+  {
+    "station_id": "229",
+    "nombre": "CE-181 Benjamín Franklin - Ometusco",
+    "lat": 19.404825166337652,
+    "lon": -99.17472235863897
+  },
+  {
+    "station_id": "230",
+    "nombre": "CE-246 Leibnitz-Thiers",
+    "lat": 19.434147,
+    "lon": -99.179835
+  },
+  {
+    "station_id": "231",
+    "nombre": "CE-479 Lago Muritz-Av.Marina Nacional",
+    "lat": 19.444433,
+    "lon": -99.179664
+  },
+  {
+    "station_id": "232",
+    "nombre": "CE-281 Pitágoras-La Morena",
+    "lat": 19.398532,
+    "lon": -99.157308
+  },
+  {
+    "station_id": "233",
+    "nombre": "CE-480 Lago Iseo-Av. Marina Nacional",
+    "lat": 19.446073,
+    "lon": -99.181654
+  },
+  {
+    "station_id": "234",
+    "nombre": "CE-041 Reforma - Av. de la República",
+    "lat": 19.43542,
+    "lon": -99.150317
+  },
+  {
+    "station_id": "235",
+    "nombre": "CE-226 Wallon-Presidente Masaryk",
+    "lat": 19.4310009,
+    "lon": -99.1821808
+  },
+  {
+    "station_id": "236",
+    "nombre": "CE-468 Lago Xochimilco-Av. Ejército Nacional",
+    "lat": 19.437250121513653,
+    "lon": -99.1795731336424
+  },
+  {
+    "station_id": "237",
+    "nombre": "CE-256 Gómez Farías-Sadi Carnot",
+    "lat": 19.437128,
+    "lon": -99.158363
+  },
+  {
+    "station_id": "238",
+    "nombre": "CE-119 Turín-Abraham González",
+    "lat": 19.4268522887659,
+    "lon": -99.1556279361248
+  },
+  {
+    "station_id": "239",
+    "nombre": "CE-475 Lago Muritz-Lago Alberto",
+    "lat": 19.439249,
+    "lon": -99.181065
+  },
+  {
+    "station_id": "240",
+    "nombre": "CE-010 Reforma - Ramírez",
+    "lat": 19.433431,
+    "lon": -99.155142
+  },
+  {
+    "station_id": "241",
+    "nombre": "CE-450 Ramos Arizpe- Av México Tenochtitlan",
+    "lat": 19.43832573320297,
+    "lon": -99.15223784747468
+  },
+  {
+    "station_id": "242",
+    "nombre": "CE-555 Ribera de San Cosme - Insurgentes Centro",
+    "lat": 19.44021597,
+    "lon": -99.1561678
+  },
+  {
+    "station_id": "243",
+    "nombre": "CE-270 De la República-Ponciano Arriaga",
+    "lat": 19.436764,
+    "lon": -99.153865
+  },
+  {
+    "station_id": "244",
+    "nombre": "CE-248 Shakespeare-Lafayette",
+    "lat": 19.43175,
+    "lon": -99.177399
+  },
+  {
+    "station_id": "245",
+    "nombre": "CE-476 Lago Como-Laguna de Mayrán",
+    "lat": 19.442127,
+    "lon": -99.184433
+  },
+  {
+    "station_id": "246",
+    "nombre": "CE-174 Joaquín Garcia Icazbalceta-Ignacio Manuel Altamirano",
+    "lat": 19.441133258345886,
+    "lon": -99.16170336308824
+  },
+  {
+    "station_id": "247",
+    "nombre": "CE-237-238 Andrés Bello-George Eliot",
+    "lat": 19.426744,
+    "lon": -99.193986
+  },
+  {
+    "station_id": "249",
+    "nombre": "CE-124 Claudio Bernard-Dr. Liceaga",
+    "lat": 19.422392,
+    "lon": -99.150358
+  },
+  {
+    "station_id": "250",
+    "nombre": "CE-082 Independencia - Marroquí",
+    "lat": 19.433344,
+    "lon": -99.14404
+  },
+  {
+    "station_id": "251",
+    "nombre": "CE-262 República de Cuba-República de Brasil",
+    "lat": 19.436931,
+    "lon": -99.133952
+  },
+  {
+    "station_id": "252",
+    "nombre": "CE-235-236 Campos Elíseos-Moliere",
+    "lat": 19.429417,
+    "lon": -99.202353
+  },
+  {
+    "station_id": "253",
+    "nombre": "CE-104 San Jerónimo-Isabel la Católica",
+    "lat": 19.427059,
+    "lon": -99.137116
+  },
+  {
+    "station_id": "254",
+    "nombre": "CE-136 Álvaro Obregón-Tonalá",
+    "lat": 19.417715,
+    "lon": -99.162729
+  },
+  {
+    "station_id": "255",
+    "nombre": "CE-183 Gabino Barreda-Guillermo Prieto",
+    "lat": 19.437665,
+    "lon": -99.164018
+  },
+  {
+    "station_id": "256",
+    "nombre": "CE-095 20 de Noviembre-Venustiano Carranza",
+    "lat": 19.430682555945197,
+    "lon": -99.1337009892004
+  },
+  {
+    "station_id": "257",
+    "nombre": "CE-036 Puebla - Veracruz",
+    "lat": 19.41966,
+    "lon": -99.17588
+  },
+  {
+    "station_id": "258",
+    "nombre": "CE-063 Nuevo León - Laredo",
+    "lat": 19.413091238892452,
+    "lon": -99.1716201604504
+  },
+  {
+    "station_id": "259",
+    "nombre": "CE-087 Gante - Venustiano Carranza",
+    "lat": 19.432024,
+    "lon": -99.139705
+  },
+  {
+    "station_id": "260",
+    "nombre": "CE-020 Reforma- Río Támesis",
+    "lat": 19.43086152710901,
+    "lon": -99.16025899353372
+  },
+  {
+    "station_id": "261",
+    "nombre": "CE-015 Reforma - Río Mississippi",
+    "lat": 19.425597,
+    "lon": -99.171409
+  },
+  {
+    "station_id": "262",
+    "nombre": "CE-075 Alfonso Reyes - Atlixco",
+    "lat": 19.408740687234836,
+    "lon": -99.17677424853537
+  },
+  {
+    "station_id": "263",
+    "nombre": "CE-017 Reforma - Río Tiber",
+    "lat": 19.427553,
+    "lon": -99.167396
+  },
+  {
+    "station_id": "264",
+    "nombre": "CE-080 Nuevo León - Aguascalientes",
+    "lat": 19.407239898913133,
+    "lon": -99.17207747708744
+  },
+  {
+    "station_id": "265",
+    "nombre": "CE-023 Reforma - Praga",
+    "lat": 19.42528,
+    "lon": -99.171099
+  },
+  {
+    "station_id": "266",
+    "nombre": "CE-085 Rosas Moreno - Sullivan",
+    "lat": 19.434059327049166,
+    "lon": -99.16243817658597
+  },
+  {
+    "station_id": "267",
+    "nombre": "CE-014 Reforma - Río de Plata",
+    "lat": 19.42454,
+    "lon": -99.173247
+  },
+  {
+    "station_id": "268",
+    "nombre": "CE-135 Álvaro Obregón-Morelia",
+    "lat": 19.419250969141167,
+    "lon": -99.15503863246612
+  },
+  {
+    "station_id": "269",
+    "nombre": "CE-089 República de Guatemala - Monte de Piedad",
+    "lat": 19.434962,
+    "lon": -99.133729
+  },
+  {
+    "station_id": "270",
+    "nombre": "CE-133 Colima-Morelia",
+    "lat": 19.421138,
+    "lon": -99.154725
+  },
+  {
+    "station_id": "271",
+    "nombre": "CE-141 Zacatecas-Luis Cabrera",
+    "lat": 19.415905,
+    "lon": -99.15954
+  },
+  {
+    "station_id": "272",
+    "nombre": "CE-092 San Ildefonso-República de Argentina",
+    "lat": 19.436531,
+    "lon": -99.131497
+  },
+  {
+    "station_id": "273",
+    "nombre": "CE-470 Bahía de Las Palmas-Bahía de Todos Los Santos",
+    "lat": 19.435039,
+    "lon": -99.173879
+  },
+  {
+    "station_id": "275",
+    "nombre": "CE-239 Rincón del Bosque-Ruben Darío",
+    "lat": 19.430153,
+    "lon": -99.181355
+  },
+  {
+    "station_id": "276",
+    "nombre": "CE-656 Ignacio Allende - Paris",
+    "lat": 19.3543111,
+    "lon": -99.1624361
+  },
+  {
+    "station_id": "277",
+    "nombre": "CE-305 Avenida del Parque-Arizona",
+    "lat": 19.394693,
+    "lon": -99.175531
+  },
+  {
+    "station_id": "278",
+    "nombre": "CE-121 Niza-Chapultepec",
+    "lat": 19.424178,
+    "lon": -99.16115
+  },
+  {
+    "station_id": "279",
+    "nombre": "CE-027 Reforma- Havre",
+    "lat": 19.42916,
+    "lon": -99.162703
+  },
+  {
+    "station_id": "280",
+    "nombre": "CE-252 Víctor Hugo-Shakespeare",
+    "lat": 19.427575,
+    "lon": -99.17702
+  },
+  {
+    "station_id": "281",
+    "nombre": "CE-251 Goethe-Darwin",
+    "lat": 19.429261,
+    "lon": -99.17538
+  },
+  {
+    "station_id": "282",
+    "nombre": "CE-117 Londres-Nápoles",
+    "lat": 19.427166592327957,
+    "lon": -99.16029106826954
+  },
+  {
+    "station_id": "283",
+    "nombre": "CE-250 Darwin-Mariano Escobedo",
+    "lat": 19.428949,
+    "lon": -99.179796
+  },
+  {
+    "station_id": "284",
+    "nombre": "CE-217 Euler-Horacio",
+    "lat": 19.432850919536445,
+    "lon": -99.18354526173061
+  },
+  {
+    "station_id": "285",
+    "nombre": "CE-224 Hegel-Presidente Masaryk",
+    "lat": 19.431115,
+    "lon": -99.188082
+  },
+  {
+    "station_id": "286",
+    "nombre": "CE-215 Edgar Alan Poe-Horacio",
+    "lat": 19.43384,
+    "lon": -99.19968
+  },
+  {
+    "station_id": "287",
+    "nombre": "CE-202 Calderón de la Barca-Av. Homero",
+    "lat": 19.436064,
+    "lon": -99.198898
+  },
+  {
+    "station_id": "288",
+    "nombre": "CE-240 Ejército Nacional-F.C. de Cuernavaca",
+    "lat": 19.438634297233477,
+    "lon": -99.20629061763975
+  },
+  {
+    "station_id": "289",
+    "nombre": "CE-047 Plaza Madrid-Medellín",
+    "lat": 19.419506460644055,
+    "lon": -99.16636526590081
+  },
+  {
+    "station_id": "290",
+    "nombre": "CE-258 Circuito Interior-Juan Escutia",
+    "lat": 19.4165298,
+    "lon": -99.1790435
+  },
+  {
+    "station_id": "291",
+    "nombre": "CE-011 Río Amazonas - Río Lerma",
+    "lat": 19.431192,
+    "lon": -99.163546
+  },
+  {
+    "station_id": "292",
+    "nombre": "CE-001 Río Sena-Río Balsas",
+    "lat": 19.4337846,
+    "lon": -99.1679872
+  },
+  {
+    "station_id": "293",
+    "nombre": "CE-103 Joaquín Velázquez de León - García Icazbalceta",
+    "lat": 19.441533,
+    "lon": -99.165268
+  },
+  {
+    "station_id": "294",
+    "nombre": "CE-013 Reforma - Río Mississippi",
+    "lat": 19.424941,
+    "lon": -99.17233
+  },
+  {
+    "station_id": "295",
+    "nombre": "CE-018 Reforma - Río Rhin",
+    "lat": 19.428802,
+    "lon": -99.164381
+  },
+  {
+    "station_id": "296",
+    "nombre": "CE-038 Cozumel - Puebla",
+    "lat": 19.420862316439543,
+    "lon": -99.17145028710365
+  },
+  {
+    "station_id": "297",
+    "nombre": "CE-449 Acapulco-Puebla",
+    "lat": 19.420281,
+    "lon": -99.174392
+  },
+  {
+    "station_id": "298",
+    "nombre": "CE-028 Toledo- Tokio",
+    "lat": 19.423664,
+    "lon": -99.172568
+  },
+  {
+    "station_id": "299",
+    "nombre": "CE-034 Liverpool - Génova",
+    "lat": 19.42472751913646,
+    "lon": -99.16334755721435
+  },
+  {
+    "station_id": "300",
+    "nombre": "CE-232 Taine - Rubén Darío",
+    "lat": 19.42894,
+    "lon": -99.185389
+  },
+  {
+    "station_id": "301",
+    "nombre": "CE-227 Campos Elíseos-Periférico",
+    "lat": 19.431783492215445,
+    "lon": -99.20738060028725
+  },
+  {
+    "station_id": "302",
+    "nombre": "CE-211 Isaac Newton-Horacio",
+    "lat": 19.43385,
+    "lon": -99.188275
+  },
+  {
+    "station_id": "303",
+    "nombre": "CE-478 Laguna de Mayrán-Lago Chalco",
+    "lat": 19.440818,
+    "lon": -99.176961
+  },
+  {
+    "station_id": "304",
+    "nombre": "CE-474 Bahía de San Hipólito-Bahía del Espíritu Santo",
+    "lat": 19.438984,
+    "lon": -99.177549
+  },
+  {
+    "station_id": "305",
+    "nombre": "CE-176 Av. Jesús García-Luis Donaldo Colosio",
+    "lat": 19.442717,
+    "lon": -99.152262
+  },
+  {
+    "station_id": "306",
+    "nombre": "CE-244 Lago Victoria-Miguel de Cervantes Saavedra",
+    "lat": 19.440508,
+    "lon": -99.193681
+  },
+  {
+    "station_id": "307",
+    "nombre": "CE-219 Esopo-FC de Cuernavaca",
+    "lat": 19.433364,
+    "lon": -99.207553
+  },
+  {
+    "station_id": "309",
+    "nombre": "CE-465 Lago Ginebra-Lago Wetter",
+    "lat": 19.445039,
+    "lon": -99.194078
+  },
+  {
+    "station_id": "311",
+    "nombre": "CE-257 Manuel Maria Contreras-Villalongin",
+    "lat": 19.433803,
+    "lon": -99.166223
+  },
+  {
+    "station_id": "312",
+    "nombre": "CE-455 Pedregal-Ferrocarril De Cuernavaca",
+    "lat": 19.426308,
+    "lon": -99.2033
+  },
+  {
+    "station_id": "313",
+    "nombre": "CE-266-267 Jesús García - Carlos J. Meneses",
+    "lat": 19.444031,
+    "lon": -99.152187
+  },
+  {
+    "station_id": "314",
+    "nombre": "CE-201 Lope de Vega-Av. Ejército Nacional",
+    "lat": 19.437496732030738,
+    "lon": -99.18721206491682
+  },
+  {
+    "station_id": "315",
+    "nombre": "CE-208 Hesiodo-Lamartine",
+    "lat": 19.434182,
+    "lon": -99.189835
+  },
+  {
+    "station_id": "316",
+    "nombre": "CE-221 Emilio Castelar-Presidente Masaryk",
+    "lat": 19.431799,
+    "lon": -99.201565
+  },
+  {
+    "station_id": "317",
+    "nombre": "CE-210 Eugenio Sue-Horacio",
+    "lat": 19.434076,
+    "lon": -99.194091
+  },
+  {
+    "station_id": "318",
+    "nombre": "CE-021 Reforma - Dublín",
+    "lat": 19.424809702659765,
+    "lon": -99.1717654466629
+  },
+  {
+    "station_id": "319",
+    "nombre": "CE-206 Homero-Moliere",
+    "lat": 19.436142,
+    "lon": -99.200996
+  },
+  {
+    "station_id": "320",
+    "nombre": "CE-086 Sullivan-Insurgentes",
+    "lat": 19.432452,
+    "lon": -99.15924
+  },
+  {
+    "station_id": "321",
+    "nombre": "CE-233 Julio Verne-Luis G. Urbina",
+    "lat": 19.429314,
+    "lon": -99.196965
+  },
+  {
+    "station_id": "322",
+    "nombre": "CE-451 Campos Elíseos-Goldsmith",
+    "lat": 19.428847,
+    "lon": -99.201299
+  },
+  {
+    "station_id": "323",
+    "nombre": "CE-008 Reforma - General Prim",
+    "lat": 19.431256,
+    "lon": -99.158153
+  },
+  {
+    "station_id": "324",
+    "nombre": "CE-223 Isaac Newton-Presidente Masaryk",
+    "lat": 19.431242,
+    "lon": -99.191613
+  },
+  {
+    "station_id": "325",
+    "nombre": "CE-668 Plateros - Capuchinas",
+    "lat": 19.367522,
+    "lon": -99.181727
+  },
+  {
+    "station_id": "326",
+    "nombre": "CE-242 Pról. Moliere-Miguel de Cervantes Saavedra",
+    "lat": 19.44002672090815,
+    "lon": -99.20071095250022
+  },
+  {
+    "station_id": "327",
+    "nombre": "CE-050 Cuernavaca - Veracruz",
+    "lat": 19.41682441224743,
+    "lon": -99.17378827934954
+  },
+  {
+    "station_id": "328",
+    "nombre": "CE-145 Yucatán-Chiapas",
+    "lat": 19.41286,
+    "lon": -99.160661
+  },
+  {
+    "station_id": "329",
+    "nombre": "CE-142 San Luis Potosí-Eje 2 Pte. Monterrey",
+    "lat": 19.41325186264067,
+    "lon": -99.16412428026888
+  },
+  {
+    "station_id": "330",
+    "nombre": "CE-155 Jalapa-Tlaxcala",
+    "lat": 19.408218,
+    "lon": -99.159911
+  },
+  {
+    "station_id": "331",
+    "nombre": "CE-225 Petrarca-Presidente Masaryk",
+    "lat": 19.431172,
+    "lon": -99.185612
+  },
+  {
+    "station_id": "332",
+    "nombre": "CE-553  Jaime Torres Bodet - Ribera de San Cosme",
+    "lat": 19.442,
+    "lon": -99.1593333
+  },
+  {
+    "station_id": "333",
+    "nombre": "CE-051 Colima - Oaxaca",
+    "lat": 19.418031,
+    "lon": -99.168435
+  },
+  {
+    "station_id": "334",
+    "nombre": "CE-170 Observatorio Oriente-Revolución",
+    "lat": 19.404029,
+    "lon": -99.184342
+  },
+  {
+    "station_id": "335",
+    "nombre": "CE-452 Leibnitz-Av. Ejercito Nacional",
+    "lat": 19.435867,
+    "lon": -99.179856
+  },
+  {
+    "station_id": "336",
+    "nombre": "CE-552 Fresno - Ribera de San Cosme",
+    "lat": 19.4431081,
+    "lon": -99.1624537
+  },
+  {
+    "station_id": "337",
+    "nombre": "CE-130 Mérida-Durango",
+    "lat": 19.421576,
+    "lon": -99.158015
+  },
+  {
+    "station_id": "338",
+    "nombre": "CE-062 Fernando Montes de Oca - Amatlan",
+    "lat": 19.41331637033966,
+    "lon": -99.17530506854746
+  },
+  {
+    "station_id": "339",
+    "nombre": "CE-061 Avenida México - Sonora",
+    "lat": 19.413832444192096,
+    "lon": -99.16939929138606
+  },
+  {
+    "station_id": "340",
+    "nombre": "CE-129 Tonalá-Durango",
+    "lat": 19.4206,
+    "lon": -99.163312
+  },
+  {
+    "station_id": "341",
+    "nombre": "CE-068 Tamaulipas - Michoacán",
+    "lat": 19.41166825384696,
+    "lon": -99.17382381861898
+  },
+  {
+    "station_id": "342",
+    "nombre": "CE-448 Dr. Andrade-Arcos De Belén",
+    "lat": 19.426611,
+    "lon": -99.14447
+  },
+  {
+    "station_id": "343",
+    "nombre": "CE-253 Dante-Tolstoi",
+    "lat": 19.42644758104329,
+    "lon": -99.17815290396902
+  },
+  {
+    "station_id": "344",
+    "nombre": "CE-487 Nopaltzin - Quetzalcoatl",
+    "lat": 19.441728,
+    "lon": -99.167477
+  },
+  {
+    "station_id": "345",
+    "nombre": "CE-554 Heroes Ferrocarrileros - Mariano Azuela",
+    "lat": 19.4417473,
+    "lon": -99.155639
+  },
+  {
+    "station_id": "346",
+    "nombre": "CE-151 Campeche-Tonalá",
+    "lat": 19.410529,
+    "lon": -99.160873
+  },
+  {
+    "station_id": "347",
+    "nombre": "CE-550 Sor Juana Ines de la Cruz - Fresno",
+    "lat": 19.445947026056686,
+    "lon": -99.16137836878987
+  },
+  {
+    "station_id": "348",
+    "nombre": "CE-551 Nogal - Ribera de San Cosme",
+    "lat": 19.4435806,
+    "lon": -99.1648833
+  },
+  {
+    "station_id": "349",
+    "nombre": "CE-549 Sor Juana Ines de la Cruz - Dr. Atl",
+    "lat": 19.4450444,
+    "lon": -99.1571333
+  },
+  {
+    "station_id": "350",
+    "nombre": "CE-162 Tehuantepec-Medellín",
+    "lat": 19.404907,
+    "lon": -99.162485
+  },
+  {
+    "station_id": "352",
+    "nombre": "CE-024 Reforma- Florencia",
+    "lat": 19.426614,
+    "lon": -99.168078
+  },
+  {
+    "station_id": "353",
+    "nombre": "CE-026 Reforma - Versalles",
+    "lat": 19.432595,
+    "lon": -99.154995
+  },
+  {
+    "station_id": "354",
+    "nombre": "CE-191 Gobernador Rafael Rebollar-Gobernador Vicente Eguía",
+    "lat": 19.40796,
+    "lon": -99.187901
+  },
+  {
+    "station_id": "355",
+    "nombre": "CE-045 Durango - Sonora",
+    "lat": 19.418749,
+    "lon": -99.171942
+  },
+  {
+    "station_id": "356",
+    "nombre": "CE-052 Hidalgo - Trujano",
+    "lat": 19.436208,
+    "lon": -99.141931
+  },
+  {
+    "station_id": "357",
+    "nombre": "CE-286 13 de Septiembre-Avenida Patriotismo",
+    "lat": 19.399201,
+    "lon": -99.179943
+  },
+  {
+    "station_id": "358",
+    "nombre": "CE-160 Alfonso Herrera-Gabino Barreda",
+    "lat": 19.440252,
+    "lon": -99.163455
+  },
+  {
+    "station_id": "359",
+    "nombre": "CE-194 Circuito Mahatma Gandhi-Reforma",
+    "lat": 19.424282,
+    "lon": -99.180334
+  },
+  {
+    "station_id": "360",
+    "nombre": "CE-659  Madrid - Avenida Mexico",
+    "lat": 19.3564861,
+    "lon": -99.1694556
+  },
+  {
+    "station_id": "361",
+    "nombre": "CE-096 López-Ayuntamiento",
+    "lat": 19.430625,
+    "lon": -99.14248
+  },
+  {
+    "station_id": "362",
+    "nombre": "CE-667 Hermes - Mosqueta",
+    "lat": 19.363955445342725,
+    "lon": -99.1807891801136
+  },
+  {
+    "station_id": "363",
+    "nombre": "CE-084 Chilpancingo - Tlaxcala",
+    "lat": 19.406872,
+    "lon": -99.169572
+  },
+  {
+    "station_id": "364",
+    "nombre": "CE-660 Josefa Ortiz de Dominguez - Circuito Interior",
+    "lat": 19.3580028,
+    "lon": -99.1701056
+  },
+  {
+    "station_id": "365",
+    "nombre": "CE-168 Comercio-Progreso",
+    "lat": 19.403997,
+    "lon": -99.1776
+  },
+  {
+    "station_id": "366",
+    "nombre": "CE-670 Felix Parra - Flamencos",
+    "lat": 19.3676,
+    "lon": -99.1849917
+  },
+  {
+    "station_id": "367",
+    "nombre": "CE-154 Tuxpan-Tlaxcala",
+    "lat": 19.406511,
+    "lon": -99.1678974
+  },
+  {
+    "station_id": "368",
+    "nombre": "CE-658 Vicente Guerrero - Berlín",
+    "lat": 19.355339,
+    "lon": -99.165613
+  },
+  {
+    "station_id": "369",
+    "nombre": "CE-657 Madrid - Centenario",
+    "lat": 19.3574361,
+    "lon": -99.1637944
+  },
+  {
+    "station_id": "370",
+    "nombre": "CE-184 General Gómez Pedraza-Gobernador Tiburcio Montiel",
+    "lat": 19.414793,
+    "lon": -99.185083
+  },
+  {
+    "station_id": "371",
+    "nombre": "CE-153 Manzanillo-Tlaxcala",
+    "lat": 19.4074919,
+    "lon": -99.1651437
+  },
+  {
+    "station_id": "372",
+    "nombre": "CE-077 Choapan - Tamaulipas",
+    "lat": 19.406745,
+    "lon": -99.178272
+  },
+  {
+    "station_id": "373",
+    "nombre": "CE-073 Campeche - Tamaulipas",
+    "lat": 19.410073,
+    "lon": -99.175542
+  },
+  {
+    "station_id": "374",
+    "nombre": "CE-078 Benjamín Hill - Tamaulipas",
+    "lat": 19.407512,
+    "lon": -99.177361
+  },
+  {
+    "station_id": "375",
+    "nombre": "CE-163 Toluca-Bajío",
+    "lat": 19.405246,
+    "lon": -99.15643
+  },
+  {
+    "station_id": "376",
+    "nombre": "CE-054 Parque España - Sonora",
+    "lat": 19.416163,
+    "lon": -99.170795
+  },
+  {
+    "station_id": "377",
+    "nombre": "CE-169 Prosperidad-Progreso",
+    "lat": 19.403019,
+    "lon": -99.174934
+  },
+  {
+    "station_id": "378",
+    "nombre": "CE-430 Tripoli-Av. Popocatépetl (Eje 8)",
+    "lat": 19.36205,
+    "lon": -99.154976
+  },
+  {
+    "station_id": "379",
+    "nombre": "CE-171 Comercio-Jose Martí",
+    "lat": 19.40253247789727,
+    "lon": -99.1782025248358
+  },
+  {
+    "station_id": "380",
+    "nombre": "CE-309 Pensilvania-Arizona",
+    "lat": 19.393059,
+    "lon": -99.179483
+  },
+  {
+    "station_id": "381",
+    "nombre": "CE-182 Progreso-Astrónomos",
+    "lat": 19.402028398340054,
+    "lon": -99.17129248386118
+  },
+  {
+    "station_id": "382",
+    "nombre": "CE-331 Avenida 2-Calle 17",
+    "lat": 19.388748,
+    "lon": -99.183924
+  },
+  {
+    "station_id": "383",
+    "nombre": "CE-279 La Morena-Providencia",
+    "lat": 19.399908,
+    "lon": -99.166553
+  },
+  {
+    "station_id": "384",
+    "nombre": "CE-187 General Cano-Gobernador Gregorio V. Gelati",
+    "lat": 19.411227,
+    "lon": -99.185514
+  },
+  {
+    "station_id": "385",
+    "nombre": "CE-291 Magdalena-División Del Norte",
+    "lat": 19.397651,
+    "lon": -99.169946
+  },
+  {
+    "station_id": "386",
+    "nombre": "CE-297 Diagonal San Antonio-Enrique Rébsamen",
+    "lat": 19.394412,
+    "lon": -99.158907
+  },
+  {
+    "station_id": "387",
+    "nombre": "CE-310 Calle 1-Av. Patriotismo",
+    "lat": 19.395316464981526,
+    "lon": -99.18172560637684
+  },
+  {
+    "station_id": "388",
+    "nombre": "CE-314 Nueva York-Louisiana",
+    "lat": 19.391647,
+    "lon": -99.177331
+  },
+  {
+    "station_id": "389",
+    "nombre": "CE-351 Calle 27-Avenida Revolución",
+    "lat": 19.385751,
+    "lon": -99.186297
+  },
+  {
+    "station_id": "390",
+    "nombre": "CE-319 Diagonal San Antonio-Luz Saviñón",
+    "lat": 19.391991,
+    "lon": -99.162684
+  },
+  {
+    "station_id": "391",
+    "nombre": "CE-329 Calle 13-Avenida 1",
+    "lat": 19.390306,
+    "lon": -99.184812
+  },
+  {
+    "station_id": "392",
+    "nombre": "CE-164 Bajío-Tlacotalpan",
+    "lat": 19.4032285,
+    "lon": -99.1658539
+  },
+  {
+    "station_id": "393",
+    "nombre": "CE-295 Anaxágoras-Eje 4 Sur Xola",
+    "lat": 19.396505,
+    "lon": -99.156877
+  },
+  {
+    "station_id": "394",
+    "nombre": "CE-336 San Borja-Cda. Dr. J. Bartolache",
+    "lat": 19.385531,
+    "lon": -99.169673
+  },
+  {
+    "station_id": "395",
+    "nombre": "CE-296 Diagonal San Antonio-Enrique Rébsamen",
+    "lat": 19.394283,
+    "lon": -99.158756
+  },
+  {
+    "station_id": "396",
+    "nombre": "CE-323 Concepción Beistegui-Gabriel Mancera",
+    "lat": 19.388986312246836,
+    "lon": -99.1632449628014
+  },
+  {
+    "station_id": "397",
+    "nombre": "CE-340 Anaxágoras-Avenida Eugenia",
+    "lat": 19.385625037771153,
+    "lon": -99.15819257503244
+  },
+  {
+    "station_id": "398",
+    "nombre": "CE-669 Los Juarez - Sagredo",
+    "lat": 19.37076863433144,
+    "lon": -99.1873613745247
+  },
+  {
+    "station_id": "399",
+    "nombre": "CE-209 Solón-Horacio",
+    "lat": 19.435478,
+    "lon": -99.206359
+  },
+  {
+    "station_id": "400",
+    "nombre": "CE-317 Avenida Coyoacán-Torres Adalid",
+    "lat": 19.391456,
+    "lon": -99.166157
+  },
+  {
+    "station_id": "401",
+    "nombre": "CE-299 Romero de Terreros-Mier Y Pesado",
+    "lat": 19.394601,
+    "lon": -99.165054
+  },
+  {
+    "station_id": "402",
+    "nombre": "CE-276 Anaxágoras-Obrero Mundial",
+    "lat": 19.401986,
+    "lon": -99.156366
+  },
+  {
+    "station_id": "403",
+    "nombre": "CE-090 José María Pino Suárez - Corregidora",
+    "lat": 19.43144,
+    "lon": -99.132513
+  },
+  {
+    "station_id": "404",
+    "nombre": "CE-304 Montecito-Dakota",
+    "lat": 19.395043,
+    "lon": -99.173821
+  },
+  {
+    "station_id": "405",
+    "nombre": "CE-352 Tintoreto-Giorgione",
+    "lat": 19.384146,
+    "lon": -99.185491
+  },
+  {
+    "station_id": "406",
+    "nombre": "CE-366 Porfirio Díaz-Augusto Rodin",
+    "lat": 19.378423,
+    "lon": -99.181891
+  },
+  {
+    "station_id": "407",
+    "nombre": "CE-395 San Lorenzo-Martín Mendalde",
+    "lat": 19.373725,
+    "lon": -99.169807
+  },
+  {
+    "station_id": "408",
+    "nombre": "CE-316 San Francisco-Concepción Beistegui",
+    "lat": 19.391056,
+    "lon": -99.1712
+  },
+  {
+    "station_id": "409",
+    "nombre": "CE-292 Adolfo Prieto-Eje 4 Sur Xola",
+    "lat": 19.396917,
+    "lon": -99.166264
+  },
+  {
+    "station_id": "410",
+    "nombre": "CE-380 Moras-San Lorenzo",
+    "lat": 19.374756,
+    "lon": -99.173539
+  },
+  {
+    "station_id": "411",
+    "nombre": "CE-338 Nicolás San Juan-San Borja",
+    "lat": 19.384242,
+    "lon": -99.16326
+  },
+  {
+    "station_id": "412",
+    "nombre": "CE-420 María Luz Bringas-Oso",
+    "lat": 19.36967233269665,
+    "lon": -99.17958118026945
+  },
+  {
+    "station_id": "413",
+    "nombre": "CE-373 Pilares-Gabriel Mancera",
+    "lat": 19.377932,
+    "lon": -99.166594
+  },
+  {
+    "station_id": "414",
+    "nombre": "CE-416 Recreo-Parroquia",
+    "lat": 19.371279,
+    "lon": -99.177623
+  },
+  {
+    "station_id": "415",
+    "nombre": "CE-386 Poussin-Donatello",
+    "lat": 19.374912,
+    "lon": -99.185807
+  },
+  {
+    "station_id": "416",
+    "nombre": "CE-347 Pennsylvania-Maximino Avila Camacho",
+    "lat": 19.384474,
+    "lon": -99.176084
+  },
+  {
+    "station_id": "417",
+    "nombre": "CE-342 Pitágoras-Av. División del Norte",
+    "lat": 19.38237,
+    "lon": -99.1598779
+  },
+  {
+    "station_id": "418",
+    "nombre": "CE-328 Avenida 1-Calle 7",
+    "lat": 19.392721,
+    "lon": -99.184727
+  },
+  {
+    "station_id": "419",
+    "nombre": "CE-369 Porfirio Díaz-Av. Insurgentes",
+    "lat": 19.379941,
+    "lon": -99.177224
+  },
+  {
+    "station_id": "420",
+    "nombre": "CE-389 Santander-Félix Cuevas",
+    "lat": 19.373655,
+    "lon": -99.179029
+  },
+  {
+    "station_id": "421",
+    "nombre": "CE-205 Taine-Homero",
+    "lat": 19.43552573443183,
+    "lon": -99.18474711483212
+  },
+  {
+    "station_id": "422",
+    "nombre": "CE-396 Martin Mendalde-Felix Cuevas",
+    "lat": 19.37165,
+    "lon": -99.17015
+  },
+  {
+    "station_id": "423",
+    "nombre": "CE-436 Rodríguez Saro-Búfalo",
+    "lat": 19.36623,
+    "lon": -99.177904
+  },
+  {
+    "station_id": "424",
+    "nombre": "CE-334 Nueva York-Av. Insurgentes",
+    "lat": 19.386530826718293,
+    "lon": -99.17510658508034
+  },
+  {
+    "station_id": "425",
+    "nombre": "CE-385 Poussin-Empresa",
+    "lat": 19.375650918831095,
+    "lon": -99.18558642279095
+  },
+  {
+    "station_id": "426",
+    "nombre": "CE-422 Búfalo-José María Rico (Eje 8)",
+    "lat": 19.368403,
+    "lon": -99.177472
+  },
+  {
+    "station_id": "427",
+    "nombre": "CE-363 Holbein-Paulo Ucello",
+    "lat": 19.380839,
+    "lon": -99.183932
+  },
+  {
+    "station_id": "428",
+    "nombre": "CE-355 California-Sacramento",
+    "lat": 19.38201131984727,
+    "lon": -99.17328938847277
+  },
+  {
+    "station_id": "429",
+    "nombre": "CE-346 San Francisco-Santa Margarita",
+    "lat": 19.38496594717172,
+    "lon": -99.17411729704327
+  },
+  {
+    "station_id": "430",
+    "nombre": "CE-290 Yosemite-Colorado",
+    "lat": 19.39638,
+    "lon": -99.1727082
+  },
+  {
+    "station_id": "431",
+    "nombre": "CE-371 Tlacoquemécatl-Capulín",
+    "lat": 19.378546,
+    "lon": -99.174297
+  },
+  {
+    "station_id": "432",
+    "nombre": "CE-401 San Lorenzo-Avenida Cuauhtémoc",
+    "lat": 19.372101,
+    "lon": -99.161501
+  },
+  {
+    "station_id": "433",
+    "nombre": "CE-356 Matías Romero -Adolfo Prieto",
+    "lat": 19.381287,
+    "lon": -99.1702
+  },
+  {
+    "station_id": "434",
+    "nombre": "CE-433 Jose María Olloqui-Lopéz Cotilla",
+    "lat": 19.363548,
+    "lon": -99.170766
+  },
+  {
+    "station_id": "435",
+    "nombre": "CE-277 Prolongación Tonalá-Obrero Mundial",
+    "lat": 19.401807,
+    "lon": -99.15909
+  },
+  {
+    "station_id": "436",
+    "nombre": "CE-172 General Francisco Murguía-José Martí",
+    "lat": 19.4035308,
+    "lon": -99.1816702
+  },
+  {
+    "station_id": "437",
+    "nombre": "CE-404 Miguel Laurent-Avenida División Del Norte",
+    "lat": 19.373833,
+    "lon": -99.157433
+  },
+  {
+    "station_id": "438",
+    "nombre": "CE-203 Tennyson-Av. Homero",
+    "lat": 19.435985,
+    "lon": -99.194832
+  },
+  {
+    "station_id": "439",
+    "nombre": "CE-473 Bahía del Espíritu Santo-Bahía de Banderas",
+    "lat": 19.438143,
+    "lon": -99.17519
+  },
+  {
+    "station_id": "440",
+    "nombre": "CE-462 Presa Falcón-Presa Danxhó",
+    "lat": 19.442338,
+    "lon": -99.205198
+  },
+  {
+    "station_id": "441",
+    "nombre": "CE-477 Lago Iseo-Laguna de Mayrán",
+    "lat": 19.440905,
+    "lon": -99.181743
+  },
+  {
+    "station_id": "442",
+    "nombre": "CE-471 Bahía de Chachalacas-Bahía de Santa Bárbara",
+    "lat": 19.436287,
+    "lon": -99.174888
+  },
+  {
+    "station_id": "443",
+    "nombre": "CE-321 Torres Adalid-Anaxágoras",
+    "lat": 19.389477,
+    "lon": -99.157513
+  },
+  {
+    "station_id": "444",
+    "nombre": "CE-444 General Manuel Rincón-Agustín Gutierrez",
+    "lat": 19.359475,
+    "lon": -99.159437
+  },
+  {
+    "station_id": "445",
+    "nombre": "CE-441 Puente Xoco-Real de Mayorazgo",
+    "lat": 19.361213660076572,
+    "lon": -99.16772089901315
+  },
+  {
+    "station_id": "446",
+    "nombre": "CE-055  5 De Mayo - Bolívar",
+    "lat": 19.434514,
+    "lon": -99.138068
+  },
+  {
+    "station_id": "447",
+    "nombre": "CE-138 Guanajuato-Frontera",
+    "lat": 19.417702,
+    "lon": -99.155313
+  },
+  {
+    "station_id": "448",
+    "nombre": "CE-359 Matías Romero -Pestalozzi",
+    "lat": 19.379331,
+    "lon": -99.161163
+  },
+  {
+    "station_id": "449",
+    "nombre": "CE-398 Juan Sánchez Azcona-Félix Cuevas",
+    "lat": 19.37104,
+    "lon": -99.165653
+  },
+  {
+    "station_id": "450",
+    "nombre": "CE-178 Tamaulipas-Francisco Murguía",
+    "lat": 19.406833,
+    "lon": -99.180457
+  },
+  {
+    "station_id": "451",
+    "nombre": "CE-198 Sócrates-Ejército Nacional",
+    "lat": 19.438173973703993,
+    "lon": -99.20383617292828
+  },
+  {
+    "station_id": "452",
+    "nombre": "CE-326 Eugenia-Nebraska",
+    "lat": 19.388978,
+    "lon": -99.174811
+  },
+  {
+    "station_id": "453",
+    "nombre": "CE-622 Fernando Montes de Oca - Eje 6 Sur",
+    "lat": 19.378351,
+    "lon": -99.143996
+  },
+  {
+    "station_id": "454",
+    "nombre": "CE-402 Uxmal-Municipio Libre",
+    "lat": 19.371142,
+    "lon": -99.158591
+  },
+  {
+    "station_id": "455",
+    "nombre": "CE-039 Puebla - Medellín",
+    "lat": 19.421762,
+    "lon": -99.166931
+  },
+  {
+    "station_id": "456",
+    "nombre": "CE-427 Avenida México-Coyoacán-Av. Popocatépetl (Eje 8)",
+    "lat": 19.364956,
+    "lon": -99.1629867
+  },
+  {
+    "station_id": "457",
+    "nombre": "CE-313 Pensilvania-Oklahoma",
+    "lat": 19.391431,
+    "lon": -99.178989
+  },
+  {
+    "station_id": "458",
+    "nombre": "CE-230 Edgar Allan Poe - Carlos Dickens",
+    "lat": 19.430098,
+    "lon": -99.200074
+  },
+  {
+    "station_id": "459",
+    "nombre": "CE-485 Lago de Pátzcuaro - Marina Nacional",
+    "lat": 19.438506,
+    "lon": -99.172696
+  },
+  {
+    "station_id": "460",
+    "nombre": "CE-392 Patricio Sanz-Félix Cuevas",
+    "lat": 19.373004,
+    "lon": -99.174764
+  },
+  {
+    "station_id": "461",
+    "nombre": "CE-453 Pedregal-Teapa",
+    "lat": 19.424842,
+    "lon": -99.203739
+  },
+  {
+    "station_id": "462",
+    "nombre": "CE-357 Matías Romero -Amores",
+    "lat": 19.380617,
+    "lon": -99.167066
+  },
+  {
+    "station_id": "463",
+    "nombre": "CE-546 Salvador Díaz Mirón - Santa María la Ribera",
+    "lat": 19.448764,
+    "lon": -99.156817
+  },
+  {
+    "station_id": "464",
+    "nombre": "CE-301 Luz Saviñón-Magdalena",
+    "lat": 19.393807,
+    "lon": -99.171133
+  },
+  {
+    "station_id": "465",
+    "nombre": "CE-004 Río Nilo - Río Panuco",
+    "lat": 19.428491,
+    "lon": -99.171693
+  },
+  {
+    "station_id": "466",
+    "nombre": "CE-496 Maestro Rural - José Parres",
+    "lat": 19.449039,
+    "lon": -99.170246
+  },
+  {
+    "station_id": "467",
+    "nombre": "CE-146 Coahuila-Manzanillo",
+    "lat": 19.410699360989387,
+    "lon": -99.16587710386011
+  },
+  {
+    "station_id": "468",
+    "nombre": "CE-149 Mérida-Antonio M. Anza",
+    "lat": 19.41199,
+    "lon": -99.155699
+  },
+  {
+    "station_id": "469",
+    "nombre": "CE-495 Amado Nervo - de los Maestros",
+    "lat": 19.445528,
+    "lon": -99.166934
+  },
+  {
+    "station_id": "470",
+    "nombre": "CE-537 Fresno - Clavel",
+    "lat": 19.457543649054422,
+    "lon": -99.15946327155325
+  },
+  {
+    "station_id": "471",
+    "nombre": "CE-069 Michoacán - Ámsterdam",
+    "lat": 19.410797,
+    "lon": -99.168143
+  },
+  {
+    "station_id": "472",
+    "nombre": "CE-245 Lago Onega-Av. Ejército Nacional",
+    "lat": 19.438347,
+    "lon": -99.190503
+  },
+  {
+    "station_id": "473",
+    "nombre": "CE-425 Nicolas San Juan-Avenida Universidad",
+    "lat": 19.36704,
+    "lon": -99.167387
+  },
+  {
+    "station_id": "474",
+    "nombre": "CE-481 Lago Garda - Mariano Escobedo",
+    "lat": 19.449367,
+    "lon": -99.182461
+  },
+  {
+    "station_id": "475",
+    "nombre": "CE-502 Mar Mediterráneo - Callejón de la Zanja",
+    "lat": 19.453432,
+    "lon": -99.174636
+  },
+  {
+    "station_id": "476",
+    "nombre": "CE-504 Mar Blanco - Calzada México Tacuba",
+    "lat": 19.455343,
+    "lon": -99.179056
+  },
+  {
+    "station_id": "477",
+    "nombre": "CE-498 de los Maestros - Plan de Agua Prieta",
+    "lat": 19.453146248510524,
+    "lon": -99.16645511990282
+  },
+  {
+    "station_id": "478",
+    "nombre": "CE-536 Fresno - Eulalia Guzmán (Eje 2 Norte)",
+    "lat": 19.458881,
+    "lon": -99.159215
+  },
+  {
+    "station_id": "479",
+    "nombre": "CE-497 Manuel Carpio - Plan de Ayala",
+    "lat": 19.452688,
+    "lon": -99.170157
+  },
+  {
+    "station_id": "480",
+    "nombre": "CE-492 Lago Cuitzeo - Felipe Carrillo Puerto",
+    "lat": 19.449153,
+    "lon": -99.173433
+  },
+  {
+    "station_id": "481",
+    "nombre": "CE-503 Nextitla - Mar Egeo",
+    "lat": 19.455571630398424,
+    "lon": -99.17513005440924
+  },
+  {
+    "station_id": "482",
+    "nombre": "CE-506 Mar Mediterráneo - Mar Arábigo",
+    "lat": 19.459553,
+    "lon": -99.185111
+  },
+  {
+    "station_id": "483",
+    "nombre": "CE-507 Mar Mediterráneo - Azcapotzalco",
+    "lat": 19.460292,
+    "lon": -99.188303
+  },
+  {
+    "station_id": "484",
+    "nombre": "CE-499 de los Maestros - Calzada de los Gallos",
+    "lat": 19.455986,
+    "lon": -99.165966
+  },
+  {
+    "station_id": "485",
+    "nombre": "CE-458 Montes Urales-Volcán",
+    "lat": 19.428679,
+    "lon": -99.206605
+  },
+  {
+    "station_id": "486",
+    "nombre": "CE-541 Eligio Ancona - Naranjo",
+    "lat": 19.45272,
+    "lon": -99.158014
+  },
+  {
+    "station_id": "487",
+    "nombre": "CE-482 Lago Xochimilco - Laguna de San Cristóbal",
+    "lat": 19.444826,
+    "lon": -99.178393
+  },
+  {
+    "station_id": "488",
+    "nombre": "CE-545 Sabino - Salvador Díaz Mirón",
+    "lat": 19.449098384943877,
+    "lon": -99.15995210414621
+  },
+  {
+    "station_id": "489",
+    "nombre": "CE-486 Izcoatl - Circuito Interior Melchor Ocampo",
+    "lat": 19.437334,
+    "lon": -99.169573
+  },
+  {
+    "station_id": "490",
+    "nombre": "CE-098 Emilio Dondé-Av. Balderas",
+    "lat": 19.430267,
+    "lon": -99.14861
+  },
+  {
+    "station_id": "491",
+    "nombre": "CE-490 Lago Garda - FFCC",
+    "lat": 19.449023,
+    "lon": -99.179622
+  },
+  {
+    "station_id": "492",
+    "nombre": "CE-672 José María Velasco - Damas",
+    "lat": 19.363024,
+    "lon": -99.182889
+  },
+  {
+    "station_id": "493",
+    "nombre": "CE-543 Jaime Torres Bodet - Manuel Carpio",
+    "lat": 19.450506,
+    "lon": -99.157375
+  },
+  {
+    "station_id": "494",
+    "nombre": "CE-540 Eucalipto - Ricardo Flores Magón",
+    "lat": 19.453965040246473,
+    "lon": -99.15246807044241
+  },
+  {
+    "station_id": "495",
+    "nombre": "CE-703 Miguel Hidalgo - Calzada General Anaya",
+    "lat": 19.350776,
+    "lon": -99.155379
+  },
+  {
+    "station_id": "496",
+    "nombre": "CE-673 Miguel Noreña - José María Ibarrarán",
+    "lat": 19.363153,
+    "lon": -99.186963
+  },
+  {
+    "station_id": "497",
+    "nombre": "CE-700 Abasolo - Miguel Hidalgo",
+    "lat": 19.350062,
+    "lon": -99.160024
+  },
+  {
+    "station_id": "498",
+    "nombre": "CE-704 Pacífico - Asia",
+    "lat": 19.344842,
+    "lon": -99.157702
+  },
+  {
+    "station_id": "499",
+    "nombre": "CE-709 Inglaterra - Antigua Taxqueña",
+    "lat": 19.344275,
+    "lon": -99.149988
+  },
+  {
+    "station_id": "500",
+    "nombre": "CE-706 Canadá - Acolotitla",
+    "lat": 19.347503,
+    "lon": -99.15244
+  },
+  {
+    "station_id": "501",
+    "nombre": "CE-702 Fernández Leal - Plaza de la Conchita",
+    "lat": 19.347246,
+    "lon": -99.15857
+  },
+  {
+    "station_id": "502",
+    "nombre": "CE-708 Irlanda-Canada",
+    "lat": 19.346419552561255,
+    "lon": -99.14566911759721
+  },
+  {
+    "station_id": "503",
+    "nombre": "CE-643 Filipinas - Av. Pirineos",
+    "lat": 19.362323,
+    "lon": -99.148805
+  },
+  {
+    "station_id": "504",
+    "nombre": "CE-597 Diagonal San Antonio - Icacos",
+    "lat": 19.398858,
+    "lon": -99.151211
+  },
+  {
+    "station_id": "505",
+    "nombre": "CE-694 Ignacio Aldama - Centenario",
+    "lat": 19.353243,
+    "lon": -99.163753
+  },
+  {
+    "station_id": "506",
+    "nombre": "CE-696 México - Malintzin",
+    "lat": 19.351576,
+    "lon": -99.164567
+  },
+  {
+    "station_id": "507",
+    "nombre": "CE-626 San Borja - Petén",
+    "lat": 19.382115,
+    "lon": -99.153988
+  },
+  {
+    "station_id": "508",
+    "nombre": "CE-615 Tajín - Universidad",
+    "lat": 19.38748,
+    "lon": -99.153876
+  },
+  {
+    "station_id": "509",
+    "nombre": "CE-630 Cuicuilco - Motozintla",
+    "lat": 19.375677,
+    "lon": -99.152953
+  },
+  {
+    "station_id": "510",
+    "nombre": "CE-701 Cuauhtémoc - Morelos",
+    "lat": 19.352052,
+    "lon": -99.157981
+  },
+  {
+    "station_id": "511",
+    "nombre": "CE-617 Mitla - Eje 5 Sur",
+    "lat": 19.384589,
+    "lon": -99.150517
+  },
+  {
+    "station_id": "512",
+    "nombre": "CE-692 Presidente Carranza - Francisco Sosa",
+    "lat": 19.349149,
+    "lon": -99.169646
+  },
+  {
+    "station_id": "513",
+    "nombre": "CE-688 Panzacola - Miguel Ángel de Quevedo",
+    "lat": 19.346975,
+    "lon": -99.178791
+  },
+  {
+    "station_id": "514",
+    "nombre": "CE-661 Madrid - Universidad",
+    "lat": 19.35675,
+    "lon": -99.171769
+  },
+  {
+    "station_id": "515",
+    "nombre": "CE-618 Bartolomé R. Salido - Edzna",
+    "lat": 19.381824,
+    "lon": -99.148086
+  },
+  {
+    "station_id": "516",
+    "nombre": "CE-602 Correspondencia - Eje Central Lázaro Cárdenas",
+    "lat": 19.392523,
+    "lon": -99.146194
+  },
+  {
+    "station_id": "517",
+    "nombre": "CE-559 Fernando de Alva Ixtlilxochitl - Diagonal 20 de noviembre",
+    "lat": 19.420029,
+    "lon": -99.140999
+  },
+  {
+    "station_id": "518",
+    "nombre": "CE-691 Melchor Ocampo - Dulce Olivia",
+    "lat": 19.347283,
+    "lon": -99.170834
+  },
+  {
+    "station_id": "519",
+    "nombre": "CE-689 G. Pérez Valenzuela - Salvador Novo",
+    "lat": 19.351426,
+    "lon": -99.175455
+  },
+  {
+    "station_id": "520",
+    "nombre": "CE-619 Kiff - Rafael Solana Verduguillo",
+    "lat": 19.381277,
+    "lon": -99.145804
+  },
+  {
+    "station_id": "521",
+    "nombre": "CE-649 Héroes del 47 - Calzada de Tlalpan",
+    "lat": 19.35072,
+    "lon": -99.146786
+  },
+  {
+    "station_id": "522",
+    "nombre": "CE-629 Tajín - Chichen Itzá",
+    "lat": 19.376367,
+    "lon": -99.155872
+  },
+  {
+    "station_id": "523",
+    "nombre": "CE-562 Claudio Bernard - José María Vertiz",
+    "lat": 19.42037,
+    "lon": -99.146818
+  },
+  {
+    "station_id": "524",
+    "nombre": "CE-609 Romero - Calzada de Tlalpan",
+    "lat": 19.384623,
+    "lon": -99.139817
+  },
+  {
+    "station_id": "525",
+    "nombre": "CE-623 Fernando Montes de Oca - Antonio Rodríguez",
+    "lat": 19.375518,
+    "lon": -99.144118
+  },
+  {
+    "station_id": "526",
+    "nombre": "CE-651 Héroes del 47 - División del Norte",
+    "lat": 19.351578,
+    "lon": -99.150941
+  },
+  {
+    "station_id": "527",
+    "nombre": "CE-612 Torres Adalid - Cumbres de Maltrata",
+    "lat": 19.388148,
+    "lon": -99.148446
+  },
+  {
+    "station_id": "528",
+    "nombre": "CE-577 Doctor Márquez - Doctor Jiménez",
+    "lat": 19.411609,
+    "lon": -99.15314
+  },
+  {
+    "station_id": "529",
+    "nombre": "CE-624 Luis Spota - Eje Central Lázaro Cárdenas",
+    "lat": 19.377516,
+    "lon": -99.148116
+  },
+  {
+    "station_id": "530",
+    "nombre": "CE-620 Fernando Montes de Oca - Priv. Lago",
+    "lat": 19.381804,
+    "lon": -99.142997
+  },
+  {
+    "station_id": "531",
+    "nombre": "CE-592 Cádiz - Eje Central Lázaro Cárdenas",
+    "lat": 19.399664,
+    "lon": -99.145136
+  },
+  {
+    "station_id": "532",
+    "nombre": "CE-637 Ajusco - Emperadores",
+    "lat": 19.36576,
+    "lon": -99.144413
+  },
+  {
+    "station_id": "533",
+    "nombre": "CE-604 Andalucía - Carteros",
+    "lat": 19.390945,
+    "lon": -99.142972
+  },
+  {
+    "station_id": "534",
+    "nombre": "CE-634 Rumania - Víctor Hugo",
+    "lat": 19.370133,
+    "lon": -99.145866
+  },
+  {
+    "station_id": "535",
+    "nombre": "CE-568 Doctor Barragán - Doctor Erazo",
+    "lat": 19.418013,
+    "lon": -99.144598
+  },
+  {
+    "station_id": "536",
+    "nombre": "CE-639 Bulgaria - Rumania",
+    "lat": 19.364528,
+    "lon": -99.146988
+  },
+  {
+    "station_id": "537",
+    "nombre": "CE-573 Fernando Ramírez - Isabel la Católica",
+    "lat": 19.412853,
+    "lon": -99.138723
+  },
+  {
+    "station_id": "538",
+    "nombre": "CE-494 Tláloc - Calzada México Tacuba",
+    "lat": 19.444053,
+    "lon": -99.167429
+  },
+  {
+    "station_id": "539",
+    "nombre": "CE-563 Doctor Velasco - Niños Héroes",
+    "lat": 19.419444,
+    "lon": -99.149776
+  },
+  {
+    "station_id": "540",
+    "nombre": "CE-560 Doctor Liceaga - Eje Central",
+    "lat": 19.421599,
+    "lon": -99.143408
+  },
+  {
+    "station_id": "541",
+    "nombre": "CE-611 Miguel Negrete - Niños Héroes de Chapultepec",
+    "lat": 19.387506,
+    "lon": -99.146338
+  },
+  {
+    "station_id": "542",
+    "nombre": "CE-567 Doctor Martínez del Río - Doctor José Terrés",
+    "lat": 19.417133,
+    "lon": -99.145649
+  },
+  {
+    "station_id": "543",
+    "nombre": "CE-589 Cádiz - Calzada de Tlalpan",
+    "lat": 19.39859,
+    "lon": -99.137732
+  },
+  {
+    "station_id": "544",
+    "nombre": "CE-564 Doctor Carmona y Valle - Doctor Velasco",
+    "lat": 19.419509,
+    "lon": -99.153227
+  },
+  {
+    "station_id": "545",
+    "nombre": "CE-633 Canarias - Calzada Santa Cruz",
+    "lat": 19.372175,
+    "lon": -99.146356
+  },
+  {
+    "station_id": "546",
+    "nombre": "CE-664 Hortensia - 2da cerrada de Minerva",
+    "lat": 19.355544,
+    "lon": -99.178992
+  },
+  {
+    "station_id": "547",
+    "nombre": "CE-579 Doctor Márquez - Privada Doctor Duran",
+    "lat": 19.410884,
+    "lon": -99.144975
+  },
+  {
+    "station_id": "548",
+    "nombre": "CE-652 Xicoténcatl - División del Norte",
+    "lat": 19.354876,
+    "lon": -99.153611
+  },
+  {
+    "station_id": "549",
+    "nombre": "CE-663 Hortensia - Avenida Universidad",
+    "lat": 19.3548028,
+    "lon": -99.1754194
+  },
+  {
+    "station_id": "550",
+    "nombre": "CE-603 Castilla - Eje 4 sur Xola",
+    "lat": 19.394422,
+    "lon": -99.143291
+  },
+  {
+    "station_id": "551",
+    "nombre": "CE-548 Dr. Mariano Azuela - Jose Antonio Alzate",
+    "lat": 19.447028903088047,
+    "lon": -99.15431119504319
+  },
+  {
+    "station_id": "552",
+    "nombre": "CE-463 Lago Andrómaco-Lago Zurich",
+    "lat": 19.443238843979106,
+    "lon": -99.20280866324902
+  },
+  {
+    "station_id": "553",
+    "nombre": "CE-662 Manzano - Circuito Interior",
+    "lat": 19.362041,
+    "lon": -99.175158
+  },
+  {
+    "station_id": "554",
+    "nombre": "CE-679 Olivo - Tecoyotitla",
+    "lat": 19.354886,
+    "lon": -99.184642
+  },
+  {
+    "station_id": "555",
+    "nombre": "CE-571 Manuel M. Flores - Calzada San Antonio Abad",
+    "lat": 19.416221,
+    "lon": -99.134909
+  },
+  {
+    "station_id": "556",
+    "nombre": "CE-578 Doctor Jiménez - Doctor Federico Gómez Santos",
+    "lat": 19.408649,
+    "lon": -99.151126
+  },
+  {
+    "station_id": "557",
+    "nombre": "CE-666 Moras - Naranjo",
+    "lat": 19.3614885,
+    "lon": -99.1774325
+  },
+  {
+    "station_id": "558",
+    "nombre": "CE-556 Plaza Tlaxcoaque - Diagonal 20 de noviembre",
+    "lat": 19.423056,
+    "lon": -99.134941
+  },
+  {
+    "station_id": "559",
+    "nombre": "CE-678 Francia - Tecoyotitla",
+    "lat": 19.3588634,
+    "lon": -99.1829297
+  },
+  {
+    "station_id": "560",
+    "nombre": "CE-645 Saratoga - Ajusco",
+    "lat": 19.358634,
+    "lon": -99.152732
+  },
+  {
+    "station_id": "561",
+    "nombre": "CE-569 Gutiérrez Nájera - Bolívar",
+    "lat": 19.415713,
+    "lon": -99.141227
+  },
+  {
+    "station_id": "562",
+    "nombre": "CE-686 Vito Alessio Robles - Universidad",
+    "lat": 19.352203,
+    "lon": -99.178393
+  },
+  {
+    "station_id": "563",
+    "nombre": "CE-501 Plan de Guadalupe /Ferrocarril de Cuernavaca - Eligio Ancona",
+    "lat": 19.454257,
+    "lon": -99.172593
+  },
+  {
+    "station_id": "564",
+    "nombre": "CE-697 Francisco Sosa - Tres Cruces",
+    "lat": 19.349277,
+    "lon": -99.164921
+  },
+  {
+    "station_id": "565",
+    "nombre": "CE-530  Membrillo - Cda. Nueces",
+    "lat": 19.4645,
+    "lon": -99.16948
+  },
+  {
+    "station_id": "566",
+    "nombre": "CE-584 Enrique Granados - José Peón Contreras (Eje 3)",
+    "lat": 19.40697,
+    "lon": -99.14383
+  },
+  {
+    "station_id": "567",
+    "nombre": "CE-580 Antonio Solís - Bolívar",
+    "lat": 19.409817,
+    "lon": -99.141643
+  },
+  {
+    "station_id": "568",
+    "nombre": "CE-575 Fernando Ramírez - Eje Central",
+    "lat": 19.413235,
+    "lon": -99.143476
+  },
+  {
+    "station_id": "569",
+    "nombre": "CE-590 Fernando - Isabel la Católica",
+    "lat": 19.399172,
+    "lon": -99.140625
+  },
+  {
+    "station_id": "570",
+    "nombre": "CE-650 Xicoténcatl- Prolongación Xicoténcatl",
+    "lat": 19.355809,
+    "lon": -99.149393
+  },
+  {
+    "station_id": "571",
+    "nombre": "CE-631 Miguel Laurent - Eje Central",
+    "lat": 19.372907,
+    "lon": -99.149207
+  },
+  {
+    "station_id": "572",
+    "nombre": "CE-687 Francisco Sosa - Panzacola",
+    "lat": 19.349307,
+    "lon": -99.179074
+  },
+  {
+    "station_id": "573",
+    "nombre": "CE-640 Odesa - Bulgaria",
+    "lat": 19.367465,
+    "lon": -99.148786
+  },
+  {
+    "station_id": "574",
+    "nombre": "CE-628 Tenayuca - Chichen Itzá",
+    "lat": 19.378281,
+    "lon": -99.15841
+  },
+  {
+    "station_id": "575",
+    "nombre": "CE-510 Egipto - Calle Norte 79 A",
+    "lat": 19.462152,
+    "lon": -99.178291
+  },
+  {
+    "station_id": "576",
+    "nombre": "CE-635 Calzada Santa Cruz - Antillas",
+    "lat": 19.370586,
+    "lon": -99.142294
+  },
+  {
+    "station_id": "577",
+    "nombre": "CE-655 Gomez Farias - Viena",
+    "lat": 19.357086311891955,
+    "lon": -99.16019652040175
+  },
+  {
+    "station_id": "578",
+    "nombre": "CE-531 Norte 67 - Poniente 44",
+    "lat": 19.460356,
+    "lon": -99.174283
+  },
+  {
+    "station_id": "579",
+    "nombre": "CE-684 Vito Alessio Robles - Tecoyotitla",
+    "lat": 19.351594,
+    "lon": -99.184772
+  },
+  {
+    "station_id": "580",
+    "nombre": "CE-613 Luz Saviñón - Doctor José María Vertiz",
+    "lat": 19.390019,
+    "lon": -99.15111
+  },
+  {
+    "station_id": "581",
+    "nombre": "CE-557 5 de Febrero - Fernando de Alva Ixtlilxochitl",
+    "lat": 19.41981,
+    "lon": -99.135941
+  },
+  {
+    "station_id": "582",
+    "nombre": "CE-642 Repúblicas - Monrovia",
+    "lat": 19.364106,
+    "lon": -99.150541
+  },
+  {
+    "station_id": "583",
+    "nombre": "CE-512 Clavería - Floresta",
+    "lat": 19.465638,
+    "lon": -99.186178
+  },
+  {
+    "station_id": "584",
+    "nombre": "CE-665 Moras - Mango",
+    "lat": 19.3589028,
+    "lon": -99.1779972
+  },
+  {
+    "station_id": "585",
+    "nombre": "CE-594 Xochicalco - Obrero Mundial",
+    "lat": 19.4022115,
+    "lon": -99.1533118
+  },
+  {
+    "station_id": "586",
+    "nombre": "CE-514 José F. Gutiérrez - Invierno",
+    "lat": 19.470485,
+    "lon": -99.188509
+  },
+  {
+    "station_id": "587",
+    "nombre": "CE-525 Boldo - Tila",
+    "lat": 19.4683001,
+    "lon": -99.165619
+  },
+  {
+    "station_id": "588",
+    "nombre": "CE-527 Boldo - Alcanfores",
+    "lat": 19.464826,
+    "lon": -99.163177
+  },
+  {
+    "station_id": "589",
+    "nombre": "CE-516 Texcoco - Nilo",
+    "lat": 19.46669,
+    "lon": -99.180302
+  },
+  {
+    "station_id": "590",
+    "nombre": "CE-595 Yacatas - Diagonal de San Antonio",
+    "lat": 19.396983,
+    "lon": -99.155114
+  },
+  {
+    "station_id": "591",
+    "nombre": "CE-517 Ignacio Allende - Clavería",
+    "lat": 19.465377,
+    "lon": -99.179197
+  },
+  {
+    "station_id": "592",
+    "nombre": "CE-519 Poniente 58 - Cuitláhuac",
+    "lat": 19.464891,
+    "lon": -99.177242
+  },
+  {
+    "station_id": "593",
+    "nombre": "CE-521 Yuca - Clavelinas",
+    "lat": 19.466423,
+    "lon": -99.173061
+  },
+  {
+    "station_id": "594",
+    "nombre": "CE-518 Heliópolis - Norte 79A",
+    "lat": 19.468315,
+    "lon": -99.177386
+  },
+  {
+    "station_id": "595",
+    "nombre": "CE-654 Londres - San Pedro",
+    "lat": 19.355942,
+    "lon": -99.157461
+  },
+  {
+    "station_id": "596",
+    "nombre": "CE-653 Londres - División del Norte",
+    "lat": 19.356689,
+    "lon": -99.153269
+  },
+  {
+    "station_id": "597",
+    "nombre": "CE-707 Irlanda - División del Norte",
+    "lat": 19.348076,
+    "lon": -99.14906
+  },
+  {
+    "station_id": "598",
+    "nombre": "CE-542 Dr. Enrique González Martínez - Eligio Ancona",
+    "lat": 19.451838,
+    "lon": -99.154584
+  },
+  {
+    "station_id": "599",
+    "nombre": "CE-636 Ajusco - Antillas",
+    "lat": 19.367131,
+    "lon": -99.142838
+  },
+  {
+    "station_id": "600",
+    "nombre": "CE-561 Dr. Jiménez - Dr. Lavista",
+    "lat": 19.423673,
+    "lon": -99.147957
+  },
+  {
+    "station_id": "601",
+    "nombre": "CE-585 José Toribio Medina - Manuel Navarrete",
+    "lat": 19.405358,
+    "lon": -99.14316
+  },
+  {
+    "station_id": "602",
+    "nombre": "CE-600 Cumbres de Acultzingo - Av. Universidad",
+    "lat": 19.392463,
+    "lon": -99.150544
+  },
+  {
+    "station_id": "603",
+    "nombre": "CE-599 La Morena - Zempoala",
+    "lat": 19.398143,
+    "lon": -99.148333
+  },
+  {
+    "station_id": "604",
+    "nombre": "CE-638 Av Pirineos - C. Antillas",
+    "lat": 19.361743,
+    "lon": -99.143867
+  },
+  {
+    "station_id": "605",
+    "nombre": "CE-591 Simón Bolívar - La Coruña",
+    "lat": 19.402088,
+    "lon": -99.142976
+  },
+  {
+    "station_id": "606",
+    "nombre": "CE-500 Plan de Guadalupe /Ferrocarril de Cuernavaca - Juan Sarabia",
+    "lat": 19.456546,
+    "lon": -99.169344
+  },
+  {
+    "station_id": "607",
+    "nombre": "CE-484 Laguna Mayran - Lago Cuitzeo",
+    "lat": 19.44046,
+    "lon": -99.174564
+  },
+  {
+    "station_id": "608",
+    "nombre": "CE-601 Navarra - Fernando",
+    "lat": 19.395888,
+    "lon": -99.145344
+  },
+  {
+    "station_id": "609",
+    "nombre": "CE-685 Av De la Paz - Insurgentes",
+    "lat": 19.347698842866482,
+    "lon": -99.18690070520825
+  },
+  {
+    "station_id": "610",
+    "nombre": "CE-535 Av. Jardín - Orquídea",
+    "lat": 19.461773,
+    "lon": -99.162241
+  },
+  {
+    "station_id": "611",
+    "nombre": "CE-544 Salvador Díaz Mirón - Nogal",
+    "lat": 19.449773,
+    "lon": -99.163136
+  },
+  {
+    "station_id": "613",
+    "nombre": "CE-106 San Jerónimo-José María Pino Suarez",
+    "lat": 19.42649,
+    "lon": -99.133537
+  },
+  {
+    "station_id": "614",
+    "nombre": "CE-695 Malintzin - Allende",
+    "lat": 19.352141,
+    "lon": -99.16225
+  },
+  {
+    "station_id": "615",
+    "nombre": "CE-607 Unión Postal - Calzada de Tlalpan",
+    "lat": 19.39091,
+    "lon": -99.138953
+  },
+  {
+    "station_id": "616",
+    "nombre": "CE-690 Tata Vasco - Av. Miguel Ángel de Quevedo",
+    "lat": 19.345966,
+    "lon": -99.172975
+  },
+  {
+    "station_id": "617",
+    "nombre": "CE-648 Rafael Olivia - 20 de agosto",
+    "lat": 19.354411,
+    "lon": -99.147795
+  },
+  {
+    "station_id": "618",
+    "nombre": "CE-693 Xicoténcatl - Vicente Guerrero",
+    "lat": 19.352531,
+    "lon": -99.164913
+  },
+  {
+    "station_id": "619",
+    "nombre": "CE-644 Monrovia - Popocatépetl (Eje 8 Sur)",
+    "lat": 19.361371,
+    "lon": -99.150619
+  },
+  {
+    "station_id": "620",
+    "nombre": "CE-705 Europa - Miguel Ángel de Quevedo",
+    "lat": 19.344107,
+    "lon": -99.155933
+  },
+  {
+    "station_id": "621",
+    "nombre": "CE-539 Naranjo - Av. Ricardo Flores Magon",
+    "lat": 19.4551042,
+    "lon": -99.1576905
+  },
+  {
+    "station_id": "622",
+    "nombre": "CE-538 Nogal - Eligio Ancona",
+    "lat": 19.453778,
+    "lon": -99.163128
+  },
+  {
+    "station_id": "623",
+    "nombre": "CE-588  Av. Fernando - La coruña",
+    "lat": 19.401175,
+    "lon": -99.13748
+  },
+  {
+    "station_id": "624",
+    "nombre": "CE-558 Chimalpopoca - Simón Bolívar",
+    "lat": 19.4223,
+    "lon": -99.139872
+  },
+  {
+    "station_id": "625",
+    "nombre": "CE-593 Zempoala - Diagonal de San Antonio",
+    "lat": 19.401018,
+    "lon": -99.147952
+  },
+  {
+    "station_id": "626",
+    "nombre": "CE-699 San Gregorio - Felipe Carrillo Puerto",
+    "lat": 19.346895,
+    "lon": -99.163868
+  },
+  {
+    "station_id": "627",
+    "nombre": "CE-491 Colegio Salesiano - Lago Catemaco",
+    "lat": 19.44946,
+    "lon": -99.17666
+  },
+  {
+    "station_id": "628",
+    "nombre": "CE-627 San Borja - Av. Universidad",
+    "lat": 19.382606,
+    "lon": -99.156592
+  },
+  {
+    "station_id": "629",
+    "nombre": "CE-621 Lago Poniente - Calzada de Tlalpan",
+    "lat": 19.379458,
+    "lon": -99.140943
+  },
+  {
+    "station_id": "630",
+    "nombre": "CE-605 5 de Febrero - Alfonso XIII",
+    "lat": 19.395063,
+    "lon": -99.139476
+  },
+  {
+    "station_id": "631",
+    "nombre": "CE-674 Silvestre Revueltas - Macedonio Alcalá",
+    "lat": 19.361846,
+    "lon": -99.186814
+  },
+  {
+    "station_id": "632",
+    "nombre": "CE-528 Tlatilco - Av. Jardín",
+    "lat": 19.464964,
+    "lon": -99.160455
+  },
+  {
+    "station_id": "633",
+    "nombre": "CE-598 Palenque - Cumbres de Maltrata",
+    "lat": 19.3931,
+    "lon": -99.152012
+  },
+  {
+    "station_id": "634",
+    "nombre": "CE-671 Plateros - Jose María Velasco",
+    "lat": 19.364577,
+    "lon": -99.186288
+  },
+  {
+    "station_id": "635",
+    "nombre": "CE-583 Ángel del Campo - 5 de Febrero",
+    "lat": 19.408087,
+    "lon": -99.137763
+  },
+  {
+    "station_id": "636",
+    "nombre": "CE-493 Lago Tláhuac - Laguna de Guzmán",
+    "lat": 19.445916,
+    "lon": -99.170401
+  },
+  {
+    "station_id": "637",
+    "nombre": "CE-572 Manuel J. Othón - José T. Cuellar",
+    "lat": 19.414677,
+    "lon": -99.136894
+  },
+  {
+    "station_id": "638",
+    "nombre": "CE-596 Cumbres de Maltrata - Uxmal",
+    "lat": 19.395205,
+    "lon": -99.155049
+  },
+  {
+    "station_id": "639",
+    "nombre": "CE-186 Gob. Gregorio V. Gelati-Gral. Francisco Molinos del Campo",
+    "lat": 19.412438,
+    "lon": -99.188493
+  },
+  {
+    "station_id": "640",
+    "nombre": "CE-442  Real de Mayorazgo - Avenida México - Coyoacán",
+    "lat": 19.359863,
+    "lon": -99.165065
+  },
+  {
+    "station_id": "641",
+    "nombre": "CE-570 Alfredo Chavero - Simón Bolívar",
+    "lat": 19.417595,
+    "lon": -99.140972
+  },
+  {
+    "station_id": "642",
+    "nombre": "CE-647 Antillas - Nevado",
+    "lat": 19.359256,
+    "lon": -99.144433
+  },
+  {
+    "station_id": "643",
+    "nombre": "CE-608 Ahorro Postal - Francisco Márquez",
+    "lat": 19.3884304,
+    "lon": -99.1397718
+  },
+  {
+    "station_id": "644",
+    "nombre": "CE-698 Cerrada Zamora - Av. Miguel Ángel de Quevedo",
+    "lat": 19.3447824,
+    "lon": -99.1635837
+  },
+  {
+    "station_id": "645",
+    "nombre": "CE-610  Av. Víctor Hugo - Av. Niños Héroes de Chapultepec",
+    "lat": 19.387174,
+    "lon": -99.143708
+  },
+  {
+    "station_id": "646",
+    "nombre": "CE-641 Sevilla - Av. Presidentes",
+    "lat": 19.368156,
+    "lon": -99.151883
+  },
+  {
+    "station_id": "647",
+    "nombre": "CE-534 Tlatilco - Jazmín",
+    "lat": 19.4587727,
+    "lon": -99.1644993
+  },
+  {
+    "station_id": "648",
+    "nombre": "CE-574 José María Roa Bárcenas - Simón Bolívar",
+    "lat": 19.411768,
+    "lon": -99.140899
+  },
+  {
+    "station_id": "649",
+    "nombre": "CE-616 Petén - Eje 5 Sur",
+    "lat": 19.384965,
+    "lon": -99.1535881
+  },
+  {
+    "station_id": "650",
+    "nombre": "CE-646  Rumania - Av. Popocatépetl",
+    "lat": 19.360545,
+    "lon": -99.147501
+  },
+  {
+    "station_id": "651",
+    "nombre": "CE-489 Lago Chalco - Laguna Tamiahua",
+    "lat": 19.446383,
+    "lon": -99.17598
+  },
+  {
+    "station_id": "652",
+    "nombre": "CE-614 Torres Adalid - Av. Cuauhtémoc",
+    "lat": 19.389293,
+    "lon": -99.156348
+  },
+  {
+    "station_id": "653",
+    "nombre": "CE-632 Victor Hugo - Sevilla",
+    "lat": 19.370891,
+    "lon": -99.151577
+  },
+  {
+    "station_id": "654",
+    "nombre": "CE-625 Zempoala - Angel Urraza",
+    "lat": 19.379442,
+    "lon": -99.150064
+  },
+  {
+    "station_id": "655",
+    "nombre": "CE-581 José María Roa Bárcenas - San Antonio Abad",
+    "lat": 19.411398,
+    "lon": -99.135655
+  },
+  {
+    "station_id": "656",
+    "nombre": "CE-513 Av. Aquiles Serdán - Av. Invierno",
+    "lat": 19.469578,
+    "lon": -99.189828
+  },
+  {
+    "station_id": "657",
+    "nombre": "CE-197 Presa Falcón - Miguel De Cervantes Saavedra",
+    "lat": 19.440924618966452,
+    "lon": -99.20504942541811
+  },
+  {
+    "station_id": "658",
+    "nombre": "CE-576 Doctor Arce - Jose Maria Vertiz",
+    "lat": 19.413464371675584,
+    "lon": -99.14802946153031
+  },
+  {
+    "station_id": "659",
+    "nombre": "CE-520 Salónica - Eje 3 Norte Camarones",
+    "lat": 19.470699086375355,
+    "lon": -99.17832344770432
+  },
+  {
+    "station_id": "660",
+    "nombre": "CE-606 Alfonso XIII - Aragón",
+    "lat": 19.394974,
+    "lon": -99.138949
+  },
+  {
+    "station_id": "662",
+    "nombre": "CE-566 Dr. Jiménez - Dr. García Diego",
+    "lat": 19.416239,
+    "lon": -99.149542
+  },
+  {
+    "station_id": "663",
+    "nombre": "CE-565 Dr. Martinez del Rio - Dr. Lucio",
+    "lat": 19.4176712000745,
+    "lon": -99.15278613567352
+  },
+  {
+    "station_id": "664",
+    "nombre": "CE-587 Jose Toribio Medina - Marcelino Davalos",
+    "lat": 19.404668302672064,
+    "lon": -99.13694635033607
+  },
+  {
+    "station_id": "665",
+    "nombre": "CE-586 Bernardo Couto-Juan E. Hernández y Davalos",
+    "lat": 19.40632606093993,
+    "lon": -99.13877864484675
+  },
+  {
+    "station_id": "666",
+    "nombre": "CE-526 Toronjil - Mejorana",
+    "lat": 19.466952,
+    "lon": -99.162928
+  },
+  {
+    "station_id": "667",
+    "nombre": "CE-547 Dr. Enrique González Martínez - Salvador Díaz Mirón",
+    "lat": 19.447481,
+    "lon": -99.155443
+  },
+  {
+    "station_id": "668",
+    "nombre": "CE-488 Huetzin - Cuitláhuac",
+    "lat": 19.444812,
+    "lon": -99.170307
+  },
+  {
+    "station_id": "669",
+    "nombre": "CE-683 Pedro Luis Ogazón-Insurgentes Sur",
+    "lat": 19.35038263626101,
+    "lon": -99.18722301721573
+  },
+  {
+    "station_id": "670",
+    "nombre": "CE-582 Antonio Solis-San Antonio Abad",
+    "lat": 19.40948,
+    "lon": -99.135894
+  },
+  {
+    "station_id": "671",
+    "nombre": "CE-522 Prol. Nueces - Av. Cuitlahuac",
+    "lat": 19.470597,
+    "lon": -99.1700529
+  },
+  {
+    "station_id": "672",
+    "nombre": "CE-523 Toronjil - Av. Cuitlahuac",
+    "lat": 19.471112,
+    "lon": -99.165294
+  },
+  {
+    "station_id": "673",
+    "nombre": "CE-508 Libertad-C. José Sánchez Trujillo",
+    "lat": 19.462364,
+    "lon": -99.183671
+  },
+  {
+    "station_id": "674",
+    "nombre": "CE-515 Tebas-C. Salónica",
+    "lat": 19.469621805880028,
+    "lon": -99.18408215045929
+  },
+  {
+    "station_id": "678",
+    "nombre": "CE-532  Av. Biólogo Maximino Martínez - Camarones",
+    "lat": 19.4608358,
+    "lon": -99.1711512
+  },
+  {
+    "station_id": "681",
+    "nombre": "CE-509  Juárez - Venecia",
+    "lat": 19.459686,
+    "lon": -99.1817781
+  },
+  {
+    "station_id": "682",
+    "nombre": "CE-533  Av Plan de San Luis - Eulalia Gúzman",
+    "lat": 19.4604943,
+    "lon": -99.1672704
+  },
+  {
+    "station_id": "683",
+    "nombre": "CE-440  Martin Mendalde - M. López Cotilla",
+    "lat": 19.3617925,
+    "lon": -99.1714707
+  },
+  {
+    "station_id": "684",
+    "nombre": "CE-676  Ricardo Palmerín - Abundio Martínez",
+    "lat": 19.3582358,
+    "lon": -99.1881061
+  },
+  {
+    "station_id": "685",
+    "nombre": "CE-680  Diego Becerra - Av. Revolución",
+    "lat": 19.366701,
+    "lon": -99.188228
+  },
+  {
+    "station_id": "686",
+    "nombre": "CE-675 Manuel Castro Padilla - Av. Revolución",
+    "lat": 19.3625257,
+    "lon": -99.1889584
+  },
+  {
+    "station_id": "694",
+    "nombre": "CE-529  Av Plan de San Luis - Calle Clavelinas",
+    "lat": 19.465541,
+    "lon": -99.166726
+  },
+  {
+    "station_id": "695",
+    "nombre": "CE-677  Juan Pablo II - Av. de los Insurgentes Sur",
+    "lat": 19.35904,
+    "lon": -99.184498
+  },
+  {
+    "station_id": "697",
+    "nombre": "CE-511 Palestina - Egipto",
+    "lat": 19.463941,
+    "lon": -99.18228
+  },
+  {
+    "station_id": "698",
+    "nombre": "CE-682 Manuel M. Ponce - Fernando M. Villalpando",
+    "lat": 19.353534,
+    "lon": -99.189548
+  },
+  {
+    "station_id": "699",
+    "nombre": "CE-681 Guty Cárdenas - Ricardo Castro",
+    "lat": 19.355844,
+    "lon": -99.189141
+  },
+  {
+    "station_id": "700",
+    "nombre": "CE-711 Molino del Rey - Av. Constituyentes",
+    "lat": 19.414108,
+    "lon": -99.191983
+  },
+  {
+    "station_id": "701",
+    "nombre": "CE-505 Mar Negro - Mariano Escobedo",
+    "lat": 19.455319,
+    "lon": -99.181368
+  },
+  {
+    "station_id": "702",
+    "nombre": "CE-524 Malvón - Juan Sarabia",
+    "lat": 19.468119,
+    "lon": -99.167268
+  },
+  {
+    "station_id": "705",
+    "nombre": "CE-260 Av. Juárez-Balderas",
+    "lat": 19.4353114,
+    "lon": -99.1477856
+  }
+]

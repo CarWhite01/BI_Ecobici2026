@@ -1,0 +1,67 @@
+{
+  "archivo": "viajes_ecobici_2026_03.csv",
+  "estado": "ok",
+  "periodo": "2026-03",
+  "registros_originales": 1653373,
+  "registros_excluidos": 116042,
+  "registros_conservados": 1537331,
+  "porcentaje_conservado": 92.98,
+  "pasos": [
+    {
+      "regla": "arrival_outside_period",
+      "descripcion": "Conservar solo viajes cuya fecha de arribo corresponde al mes del archivo procesado. El arribo define el mes porque la fuente se corta por esa fecha: en los nueve archivos de 2026 no hay un solo arribo fuera de su mes.",
+      "excluidos": 0
+    },
+    {
+      "regla": "temporary_stations",
+      "descripcion": "Excluir viajes con al menos un extremo en una estación temporal (código 'Temporal N'). Son infraestructura transitoria, habilitada de abril a julio de 2026 para conectar la red de movilidad integrada de la Ciudad de México con puntos de afluencia turística durante la Copa Mundial FIFA 2026. No forman parte del catálogo permanente de la red y su ubicación no es estable en el periodo.",
+      "excluidos": 0
+    },
+    {
+      "regla": "workshop_bikes",
+      "descripcion": "Excluir movimientos asociados al taller de mantenimiento (código 1000). Las bicicletas que entran o salen del taller no corresponden a un viaje realizado por un usuario, por lo que no representan demanda.",
+      "excluidos": 43
+    },
+    {
+      "regla": "missing_age",
+      "descripcion": "Excluir viajes sin edad registrada.",
+      "excluidos": 79
+    },
+    {
+      "regla": "unknown_gender",
+      "descripcion": "Excluir viajes con género desconocido.",
+      "excluidos": 57383
+    },
+    {
+      "regla": "minor_users",
+      "descripcion": "Excluir usuarios menores de 18 años.",
+      "excluidos": 878
+    },
+    {
+      "regla": "over_99_users",
+      "descripcion": "Excluir usuarios mayores de 99 años.",
+      "excluidos": 1
+    },
+    {
+      "regla": "same_origin_destination",
+      "descripcion": "Excluir viajes con origen igual a destino.",
+      "excluidos": 42049
+    },
+    {
+      "regla": "short_trip",
+      "descripcion": "Excluir viajes menores de 1 minuto.",
+      "excluidos": 169
+    },
+    {
+      "regla": "long_trip_weekday",
+      "descripcion": "Excluir viajes mayores de 45 minutos de lunes a jueves.",
+      "excluidos": 10675
+    },
+    {
+      "regla": "long_trip_weekend",
+      "descripcion": "Excluir viajes mayores de 60 minutos de viernes a domingo.",
+      "excluidos": 4765
+    }
+  ],
+  "salida": null
+}

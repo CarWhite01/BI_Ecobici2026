@@ -1,0 +1,27 @@
+{
+  "description": "Reglas de limpieza de viajes Ecobici 2026. Se aplican en el orden indicado; cada regla excluye solo los registros que no fueron excluidos por una regla anterior.",
+  "rules": [
+    {"id": "arrival_outside_period", "operator": "outside_period",
+     "description": "Conservar solo viajes cuya fecha de arribo corresponde al mes del archivo procesado. El arribo define el mes porque la fuente se corta por esa fecha: en los nueve archivos de 2026 no hay un solo arribo fuera de su mes."},
+    {"id": "temporary_stations", "operator": "station_pattern", "pattern": "^Temporal \\d+$",
+     "description": "Excluir viajes con al menos un extremo en una estación temporal (código 'Temporal N'). Son infraestructura transitoria, habilitada de abril a julio de 2026 para conectar la red de movilidad integrada de la Ciudad de México con puntos de afluencia turística durante la Copa Mundial FIFA 2026. No forman parte del catálogo permanente de la red y su ubicación no es estable en el periodo."},
+    {"id": "workshop_bikes", "operator": "station_equals", "value": "1000",
+     "description": "Excluir movimientos asociados al taller de mantenimiento (código 1000). Las bicicletas que entran o salen del taller no corresponden a un viaje realizado por un usuario, por lo que no representan demanda."},
+    {"id": "missing_age", "field": "edad", "operator": "is_null",
+     "description": "Excluir viajes sin edad registrada."},
+    {"id": "unknown_gender", "field": "genero", "operator": "eq", "value": "?",
+     "description": "Excluir viajes con género desconocido."},
+    {"id": "minor_users", "field": "edad", "operator": "lt", "value": 18,
+     "description": "Excluir usuarios menores de 18 años."},
+    {"id": "over_99_users", "field": "edad", "operator": "gt", "value": 99,
+     "description": "Excluir usuarios mayores de 99 años."},
+    {"id": "same_origin_destination", "operator": "same_station",
+     "description": "Excluir viajes con origen igual a destino."},
+    {"id": "short_trip", "field": "duracion_min", "operator": "lt", "value": 1,
+     "description": "Excluir viajes menores de 1 minuto."},
+    {"id": "long_trip_weekday", "field": "duracion_min", "operator": "gt", "value": 45, "days": [0, 1, 2, 3],
+     "description": "Excluir viajes mayores de 45 minutos de lunes a jueves."},
+    {"id": "long_trip_weekend", "field": "duracion_min", "operator": "gt", "value": 60, "days": [4, 5, 6],
+     "description": "Excluir viajes mayores de 60 minutos de viernes a domingo."}
+  ]
+}

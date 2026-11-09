@@ -1,0 +1,10 @@
+archivo,estado,originales,excluidos,conservados,porcentaje_conservado
+viajes_ecobici_2026_01.csv,ok,1525302,103490,1421812,93.22
+viajes_ecobici_2026_02.csv,ok,1528610,106978,1421632,93.0
+viajes_ecobici_2026_03.csv,ok,1653373,116042,1537331,92.98
+viajes_ecobici_2026_04.csv,ok,1594967,109562,1485405,93.13
+viajes_ecobici_2026_05.csv,ok,1615360,108324,1507036,93.29
+viajes_ecobici_2026_06.csv,ok,1494265,102428,1391837,93.15
+viajes_ecobici_2026_07.csv,ok,1493484,96489,1396995,93.54
+viajes_ecobici_2026_08.csv,ok,1473683,95480,1378203,93.52
+viajes_ecobici_2026_09.csv,ok,1498934,94679,1404255,93.68
